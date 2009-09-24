@@ -1,0 +1,1613 @@
+﻿<lantiv-language>
+	<galleries>
+		<gallery type="objects" file="Objects.png"/>
+	</galleries>
+	<phrases>
+		<phrase id="1" icon="Icons\Functions.png:29">OK</phrase>
+		<phrase id="2" icon="Icons\Functions.png:30">Cancel</phrase>
+		<phrase id="128">Lantiv Timetabler</phrase>
+		<phrase id="129">\nSchedule\nLantiv Timetabler\nSchedule Files (*.schedx)\n.schedx\nLantiv.Document\nLantiv Timetabler Document</phrase>
+		<phrase id="200">Sample School.schedx</phrase>
+		<phrase id="206">Sunday</phrase>
+		<phrase id="207">Monday</phrase>
+		<phrase id="208">Tuesday</phrase>
+		<phrase id="209">Wednesday</phrase>
+		<phrase id="210">Thursday</phrase>
+		<phrase id="211">Friday</phrase>
+		<phrase id="212">Saturday</phrase>
+		<phrase id="213">Su</phrase>
+		<phrase id="214">Mo</phrase>
+		<phrase id="215">Tu</phrase>
+		<phrase id="216">We</phrase>
+		<phrase id="217">Th</phrase>
+		<phrase id="218">Fr</phrase>
+		<phrase id="219">Sa</phrase>
+		<phrase id="250">Tahoma</phrase>
+		<phrase id="251">1</phrase>
+		<phrase id="252">Tahoma</phrase>
+		<phrase id="253">0</phrase>
+		<phrase id="254">Times New Roman</phrase>
+		<phrase id="255">0</phrase>
+		<phrase id="256">Tahoma</phrase>
+		<phrase id="257">0</phrase>
+		<phrase id="258">Tahoma</phrase>
+		<phrase id="259">0</phrase>
+		<phrase id="260">Tahoma</phrase>
+		<phrase id="261">0</phrase>
+		<phrase id="262">Tahoma</phrase>
+		<phrase id="263">Tahoma</phrase>
+		<phrase id="269">0</phrase>
+		<phrase id="270">70</phrase>
+		<phrase id="271">85</phrase>
+		<phrase id="272">70</phrase>
+		<phrase id="273">70</phrase>
+		<phrase id="1000">Would you like to save the changes you made?</phrase>
+		<phrase id="1761">Please enter your password here.</phrase>
+		<phrase id="1762">View Only</phrase>
+		<phrase id="1763">Change Password</phrase>
+		<phrase id="1765">Version</phrase>
+		<phrase id="1766">Release Date</phrase>
+		<phrase id="1767">Support</phrase>
+		<phrase id="1768">Order</phrase>
+		<phrase id="1769">Warning: This computer program is protected by copyright law and international trieaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</phrase>
+		<phrase id="1772">Name</phrase>
+		<phrase id="1773">Abbreviated</phrase>
+		<phrase id="1778">Ignore set color (use teachers' colors)</phrase>
+		<phrase id="1779">Table Width and Height</phrase>
+		<phrase id="1780">Resize table to fit screen width</phrase>
+		<phrase id="1781">Resize table to fit screen height</phrase>
+		<phrase id="1782">Cells Size</phrase>
+		<phrase id="1783">letters</phrase>
+		<phrase id="1784">characters</phrase>
+		<phrase id="1785">No row will contain less than</phrase>
+		<phrase id="1786">Wrap cells containing more than</phrase>
+		<phrase id="1787">Wrap rows containing more than</phrase>
+		<phrase id="1788">Width and Height</phrase>
+		<phrase id="1789">Distance from edge</phrase>
+		<phrase id="1790">cm</phrase>
+		<phrase id="1791">Print</phrase>
+		<phrase id="1792">Sub Lesson of</phrase>
+		<phrase id="2041">Last Name</phrase>
+		<phrase id="2042">First Name</phrase>
+		<phrase id="2043">Color</phrase>
+		<phrase id="2157">Saving the Changes</phrase>
+		<phrase id="2183">Illness</phrase>
+		<phrase id="2184">Trip</phrase>
+		<phrase id="2185">Exam</phrase>
+		<phrase id="2186">Show</phrase>
+		<phrase id="2187">Gathering</phrase>
+		<phrase id="2188">Ceremony</phrase>
+		<phrase id="2189">Seminar</phrase>
+		<phrase id="2190">Educational Trip</phrase>
+		<phrase id="2191">Field Trip</phrase>
+		<phrase id="2192">Poll</phrase>
+		<phrase id="2193">Army</phrase>
+		<phrase id="2194">Personal Reason</phrase>
+		<phrase id="2195">Other</phrase>
+		<phrase id="2196">Other Color...</phrase>
+		<phrase id="2197" icon="Icons\Time.png:18">Change</phrase>
+		<phrase id="2198">It is not possible to schedule at-</phrase>
+		<phrase id="2199">The following activity is already fully scheduled in the schedule:</phrase>
+		<phrase id="2204">The desired file was not found.</phrase>
+		<phrase id="2205">The path of the desired file has been incorrectly defined.</phrase>
+		<phrase id="2206">There are too many open files. Please close some.</phrase>
+		<phrase id="2207">Access to the file was denied. There may be another application using the file.</phrase>
+		<phrase id="2208">Access to the file was denied. There may be another application using the file.</phrase>
+		<phrase id="2209">Your disk is full. Please free some space and try again.</phrase>
+		<phrase id="2210">There has been a problem during backup or restore. Try restarting your computer and then try again.</phrase>
+		<phrase id="2211">Problem</phrase>
+		<phrase id="2372">Open</phrase>
+		<phrase id="2373">Preparing file for use...</phrase>
+		<phrase id="2484">New coloring will delete the current one. Continue?</phrase>
+		<phrase id="2485">Automatic Coloring</phrase>
+		<phrase id="2486">Students</phrase>
+		<phrase id="2487">Conflicts</phrase>
+		<phrase id="2499">General</phrase>
+		<phrase id="2500">Subjects</phrase>
+		<phrase id="2501">Groups</phrase>
+		<phrase id="2502">Rooms</phrase>
+		<phrase id="2503">Lessons</phrase>
+		<phrase id="2504">Teachers</phrase>
+		<phrase id="2505" icon="Icons\Resources.png:13">Equipment</phrase>
+		<phrase id="2506">Weeks</phrase>
+		<phrase id="2507">Activities</phrase>
+		<phrase id="2508">No. of Students</phrase>
+		<phrase id="2509">Canceled</phrase>
+		<phrase id="2510">To run Lantiv Timetabler, please supply an Activation Code.</phrase>
+		<phrase id="2511">To perform this operation, please supply an Activation Code.</phrase>
+		<phrase id="2512">Activities Window</phrase>
+		<phrase id="2513">Tools</phrase>
+		<phrase id="2514">Trial Version</phrase>
+		<phrase id="2515">Who is Free?</phrase>
+		<phrase id="2516">When is Free?</phrase>
+		<phrase id="2519">Alice Smith</phrase>
+		<phrase id="2520">A-1</phrase>
+		<phrase id="2521">Computers</phrase>
+		<phrase id="2522">Lab</phrase>
+		<phrase id="2523">Bob Smith</phrase>
+		<phrase id="2525">A-1, A-2</phrase>
+		<phrase id="2527">Literature</phrase>
+		<phrase id="2530">Library</phrase>
+		<phrase id="2531">TV</phrase>
+		<phrase id="2532">Video</phrase>
+		<phrase id="2570">Blocked</phrase>
+		<phrase id="2571">Scheduled</phrase>
+		<phrase id="2572">Free</phrase>
+		<phrase id="2573">Only groups taught by:</phrase>
+		<phrase id="2574">Only teachers who teach in:</phrase>
+		<phrase id="2575" icon="Icons\Groups.png:0">Group</phrase>
+		<phrase id="2576" icon="Icons\Resources.png:12">Subject</phrase>
+		<phrase id="2577" icon="Icons\Individuals.png:56">Teacher</phrase>
+		<phrase id="2578">Quantity</phrase>
+		<phrase id="2579">Scheduled</phrase>
+		<phrase id="2580">Length</phrase>
+		<phrase id="2581" icon="Icons\Buildings.png:13">Room</phrase>
+		<phrase id="2616">Yes</phrase>
+		<phrase id="2617">No</phrase>
+		<phrase id="2618">Classification</phrase>
+		<phrase id="2619">Meetings</phrase>
+		<phrase id="2620">Object</phrase>
+		<phrase id="2621">All Teachers</phrase>
+		<phrase id="2622">All Groups</phrase>
+		<phrase id="2623">All Subjects</phrase>
+		<phrase id="2624">All Rooms</phrase>
+		<phrase id="2625">Cancellation</phrase>
+		<phrase id="2626">Saving</phrase>
+		<phrase id="2627">Restore</phrase>
+		<phrase id="2628">All Students</phrase>
+		<phrase id="2664">If you wish to make any changes in the Database, you must save the schedule first. Save?</phrase>
+		<phrase id="2665">Database</phrase>
+		<phrase id="2674">Lantiv Timetabler Schedule Files (*.schedx)|*.schedx|Lantiv Timetabler 6.1 Schedule Files (*.xml)|*.xml|Lantiv Timetabler 6.0 Schedule Files (*.tiv)|*.tiv||</phrase>
+		<phrase id="2675">.schedx</phrase>
+		<phrase id="2676">Please choose the file you wish to open and then press on "Open". The file's extension should be ".schedx".</phrase>
+		<phrase id="2677">Please choose the folder and then type the new file's name in the File Name field. Finally, press on "Save".</phrase>
+		<phrase id="2680">Lantiv Timetabler Backup Files (*.bak)|*.bak||</phrase>
+		<phrase id="2681">.bak</phrase>
+		<phrase id="2682">Please choose the folder and then type the backup file's name in the File Name field. Finally, press on "Save".</phrase>
+		<phrase id="2683">Choose the backup file you wish to restore and then press on "Open". The file's extension should be ".bak".</phrase>
+		<phrase id="2684">Now type the name that will be given to the restored file. Finally, press on "Save".</phrase>
+		<phrase id="2695">Blocked Cell</phrase>
+		<phrase id="2696">The selected cells with be deleted. Continue?</phrase>
+		<phrase id="2697">Warning</phrase>
+		<phrase id="2699">Conflict</phrase>
+		<phrase id="2739">Cancel</phrase>
+		<phrase id="2740">Retry</phrase>
+		<phrase id="2741">Ignore</phrase>
+		<phrase id="2742" icon="Icons\Functions.png:29">OK</phrase>
+		<phrase id="2744" icon="Icons\Functions.png:30">Cancel</phrase>
+		<phrase id="2803">Incorrect Activation Code. Please try again.</phrase>
+		<phrase id="2804">Activation Code</phrase>
+		<phrase id="2813">Incorrect password. Please try again.</phrase>
+		<phrase id="2814">Password</phrase>
+		<phrase id="2816">Enter new password here</phrase>
+		<phrase id="2818">To change the password, please type the old one first.</phrase>
+		<phrase id="2855">Saving week</phrase>
+		<phrase id="2856">Separate groups which belong to the same activity</phrase>
+		<phrase id="2857">Report Font</phrase>
+		<phrase id="2858">Sets</phrase>
+		<phrase id="2859">Treat Sets as a single inseparable unit</phrase>
+		<phrase id="2860">Default printer</phrase>
+		<phrase id="2861">Specific printer</phrase>
+		<phrase id="2862">Paper</phrase>
+		<phrase id="2863">Size</phrase>
+		<phrase id="2864">Source</phrase>
+		<phrase id="2865">Direction</phrase>
+		<phrase id="2866">Portrait</phrase>
+		<phrase id="2867">Landscape</phrase>
+		<phrase id="2868">Margins</phrase>
+		<phrase id="2869">Top</phrase>
+		<phrase id="2870">Bottom</phrase>
+		<phrase id="2871">Left</phrase>
+		<phrase id="2872">Right</phrase>
+		<phrase id="2873">Page Range</phrase>
+		<phrase id="2874">Print only pages</phrase>
+		<phrase id="2875">From</phrase>
+		<phrase id="2876">To</phrase>
+		<phrase id="2877">Print to file</phrase>
+		<phrase id="2878">Settings</phrase>
+		<phrase id="2879" icon="Icons\Functions.png:19">Help</phrase>
+		<phrase id="2888">Copyright © 2000 Lantiv. All Rights Reserved.</phrase>
+		<phrase id="2964">Redo</phrase>
+		<phrase id="2965">Undo</phrase>
+		<phrase id="2976">File successfully compressed.</phrase>
+		<phrase id="2977">Compress</phrase>
+		<phrase id="2979">Repair</phrase>
+		<phrase id="2980">File successfully repaired.</phrase>
+		<phrase id="2981">Warning</phrase>
+		<phrase id="3010">After this operation all schedule cells will be deleted. Continue?</phrase>
+		<phrase id="3012">This operation cannot be later undone. Continue?</phrase>
+		<phrase id="3014">After this operation all schedule blocks will be deleted. Continue?</phrase>
+		<phrase id="3253">Reason collection</phrase>
+		<phrase id="3254">Please first choose the object in the list.</phrase>
+		<phrase id="3255">Update</phrase>
+		<phrase id="3257" icon="Icons\Functions.png:28">Delete</phrase>
+		<phrase id="3260">Now automatically backing up to:</phrase>
+		<phrase id="3261">Access to the destination path has been denied. Backup was not done.</phrase>
+		<phrase id="3262">Automatic Backup</phrase>
+		<phrase id="3268">The Trial Version of Lantiv Timetabler does not allow you to save the schedule.</phrase>
+		<phrase id="3269">The Trial Version of Lantiv Timetabler does not allow you to print the schedule.</phrase>
+		<phrase id="3291">Edit</phrase>
+		<phrase id="3292">Sets as one unit</phrase>
+		<phrase id="3294">Do not delete fixated cells</phrase>
+		<phrase id="3295">Additional Cells</phrase>
+		<phrase id="3300">List</phrase>
+		<phrase id="3304">T</phrase>
+		<phrase id="3305">G</phrase>
+		<phrase id="3306">R</phrase>
+		<phrase id="3307">E</phrase>
+		<phrase id="3311">Fixate</phrase>
+		<phrase id="3312">Unfixate</phrase>
+		<phrase id="3315">Changes Window</phrase>
+		<phrase id="3316">Reason</phrase>
+		<phrase id="3318">Open</phrase>
+		<phrase id="3319">Schedule an Exam</phrase>
+		<phrase id="3320">Exam</phrase>
+		<phrase id="3322">File successfully backed up.</phrase>
+		<phrase id="3323">Network</phrase>
+		<phrase id="3324">Printer</phrase>
+		<phrase id="3325">Options</phrase>
+		<phrase id="3326">Schedules</phrase>
+		<phrase id="3327">Preview</phrase>
+		<phrase id="3333">Deleting the object(s) will delete all the relevant data in the schedule. Do you wish to continue?</phrase>
+		<phrase id="3337">An object by this name already appears in the list.</phrase>
+		<phrase id="3342">Missing</phrase>
+		<phrase id="3347">Titles</phrase>
+		<phrase id="3348">Header</phrase>
+		<phrase id="3349">Footer</phrase>
+		<phrase id="3350">Weekly Schedule</phrase>
+		<phrase id="3351">Rendering page</phrase>
+		<phrase id="3352">Pages horizontally</phrase>
+		<phrase id="3353">Pages vertically</phrase>
+		<phrase id="3354">Tables per page</phrase>
+		<phrase id="3355">Start Time</phrase>
+		<phrase id="3356">End Time</phrase>
+		<phrase id="3357">Scheduling</phrase>
+		<phrase id="3358">Time Change</phrase>
+		<phrase id="3359">Move</phrase>
+		<phrase id="3360" icon="Icon\Functions.png:12">Paste</phrase>
+		<phrase id="3361">Cut</phrase>
+		<phrase id="3362">Block</phrase>
+		<phrase id="3363">Unblock</phrase>
+		<phrase id="3364">Blocked</phrase>
+		<phrase id="3365">Canceled</phrase>
+		<phrase id="3366">Group 1</phrase>
+		<phrase id="3367">Group 2</phrase>
+		<phrase id="3368">Common Students</phrase>
+		<phrase id="3369">School Name</phrase>
+		<phrase id="3370">School Number</phrase>
+		<phrase id="3371">Principal Name</phrase>
+		<phrase id="3372">Other</phrase>
+		<phrase id="3373">Telephone</phrase>
+		<phrase id="3374">Fax</phrase>
+		<phrase id="3375">Address</phrase>
+		<phrase id="3376">Teaching Days</phrase>
+		<phrase id="3377">Remarks</phrase>
+		<phrase id="3378">The Activation Code can be obtained from Lantiv by:</phrase>
+		<phrase id="3379">activate@lantiv.com</phrase>
+		<phrase id="3380">Program Code</phrase>
+		<phrase id="3381">Please supply the reason for this operation here:</phrase>
+		<phrase id="3382">Are you sure?</phrase>
+		<phrase id="3383">Please supply the subject, the room (if relevant) and the reason for this activity.</phrase>
+		<phrase id="3384">New Password</phrase>
+		<phrase id="3385">Please make sure you typed the password correctly, and write it down in a safe place if needed.</phrase>
+		<phrase id="3386">Cell with a single activity</phrase>
+		<phrase id="3387">Cell with more than one activity</phrase>
+		<phrase id="3388">Font</phrase>
+		<phrase id="3389">Schedule Font</phrase>
+		<phrase id="3390">Small Schedule Font</phrase>
+		<phrase id="3391">Loading schedule. Please wait...</phrase>
+		<phrase id="3392">ID</phrase>
+		<phrase id="3393">Participates in groups</phrase>
+		<phrase id="3394">Please type the numbers of the rows which you wish to unite to a set. For example: 1,5,17,23,37</phrase>
+		<phrase id="3395">Print in color</phrase>
+		<phrase id="3396">Watermark</phrase>
+		<phrase id="3397">Decrease font if necessary</phrase>
+		<phrase id="3398">Separate report for each object</phrase>
+		<phrase id="3399">Total pages</phrase>
+		<phrase id="3400">Flip axes</phrase>
+		<phrase id="3401">Do not print blocks</phrase>
+		<phrase id="3402">Print only blocks</phrase>
+		<phrase id="3403">Hide unchanged cells</phrase>
+		<phrase id="3404">Do not wrap changed cells</phrase>
+		<phrase id="3405">Icon</phrase>
+		<phrase id="3406">Text</phrase>
+		<phrase id="3407">Save Notification</phrase>
+		<phrase id="3408">Every</phrase>
+		<phrase id="3409">minutes</phrase>
+		<phrase id="3410">Backup Notification</phrase>
+		<phrase id="3411">Every</phrase>
+		<phrase id="3412">minutes</phrase>
+		<phrase id="3413">Perform automatically (after clicking on the blinking icon):</phrase>
+		<phrase id="3414">Path</phrase>
+		<phrase id="3415">File Name</phrase>
+		<phrase id="3416">(Date and time will be automatically appended to file name)</phrase>
+		<phrase id="3417">Delete old backups if number of backups exceeds:</phrase>
+		<phrase id="3418">Browse</phrase>
+		<phrase id="3419">Choose</phrase>
+		<phrase id="3420">Choose</phrase>
+		<phrase id="3421">Please wait...</phrase>
+		<phrase id="3422">Reports</phrase>
+		<phrase id="3423">Constraints</phrase>
+		<phrase id="3424">You still have not entered days and/or lessons. Please enter them in the Database.</phrase>
+		<phrase id="3425">Press here to continue...</phrase>
+		<phrase id="3426">Days and Lessons</phrase>
+		<phrase id="3427">File successfully restored.</phrase>
+		<phrase id="3428">File successfully saved.</phrase>
+		<phrase id="3429">File successfully opened.</phrase>
+		<phrase id="3430">File successfully created.</phrase>
+		<phrase id="3431">Please type the name of the new file in the File Name field.</phrase>
+		<phrase id="3432">Interactive</phrase>
+		<phrase id="3433">Automatic</phrase>
+		<phrase id="3434">Detailed</phrase>
+		<phrase id="3435">Statistic</phrase>
+		<phrase id="3436">Schedule</phrase>
+		<phrase id="3437">Interactive Mode</phrase>
+		<phrase id="3438">Automatic Mode</phrase>
+		<phrase id="3439">Detailed Report</phrase>
+		<phrase id="3440">Statistic Report</phrase>
+		<phrase id="3441" icon="Icons\Individuals.png:41">Student</phrase>
+		<phrase id="3442">Teacher</phrase>
+		<phrase id="3443">Group</phrase>
+		<phrase id="3444">Student</phrase>
+		<phrase id="3445">Room</phrase>
+		<phrase id="3446">Equipment</phrase>
+		<phrase id="3447">Subject</phrase>
+		<phrase id="3448">Activity</phrase>
+		<phrase id="3449">Object</phrase>
+		<phrase id="3450">Week</phrase>
+		<phrase id="3451">Day</phrase>
+		<phrase id="3452">Personal</phrase>
+		<phrase id="3453">Creating Report</phrase>
+		<phrase id="3454">for</phrase>
+		<phrase id="3455">I have checked</phrase>
+		<phrase id="3456">various moves to solve the problem.</phrase>
+		<phrase id="3457">Unfortunately, I have not found a perfect solution.</phrase>
+		<phrase id="3458">Therefore, to solve it automatically you will need to compromise on some constraint you have entered.</phrase>
+		<phrase id="3459">The two groups have at least</phrase>
+		<phrase id="3460">common students</phrase>
+		<phrase id="3461">Two groups conflict if they have common students.</phrase>
+		<phrase id="3462">Common</phrase>
+		<phrase id="3463">Try again</phrase>
+		<phrase id="3464">prefer</phrase>
+		<phrase id="3465">need</phrase>
+		<phrase id="3466">I</phrase>
+		<phrase id="3467">that</phrase>
+		<phrase id="3468">Gaps</phrase>
+		<phrase id="3469">Gaps per Week</phrase>
+		<phrase id="3470">Gaps per Day</phrase>
+		<phrase id="3471">Consecutive Gaps</phrase>
+		<phrase id="3472">Late Starts</phrase>
+		<phrase id="3473">Late Starts per Week</phrase>
+		<phrase id="3474">Late Start Size</phrase>
+		<phrase id="3475">Adjacency</phrase>
+		<phrase id="3476">Lessons per Day</phrase>
+		<phrase id="3477">Lesson Range</phrase>
+		<phrase id="3478">Free Days</phrase>
+		<phrase id="3479">the quantity of cells</phrase>
+		<phrase id="3480">to decrease</phrase>
+		<phrase id="3481">to increase</phrase>
+		<phrase id="3482">be</phrase>
+		<phrase id="3483">of</phrase>
+		<phrase id="3484">be decreased to</phrase>
+		<phrase id="3485">be increased to</phrase>
+		<phrase id="3486">the quantity of gaps per week</phrase>
+		<phrase id="3487">the quantity of gaps per day</phrase>
+		<phrase id="3488">the quantity of gaps on</phrase>
+		<phrase id="3489">minimal gap sequence</phrase>
+		<phrase id="3490">to decrease the</phrase>
+		<phrase id="3491">to increase the</phrase>
+		<phrase id="3492">be</phrase>
+		<phrase id="3493">maximal gap sequence</phrase>
+		<phrase id="3494">the quantity of late starts per week</phrase>
+		<phrase id="3495">the length of the late start</phrase>
+		<phrase id="3496">to decrease</phrase>
+		<phrase id="3497">to increase</phrase>
+		<phrase id="3498">be</phrase>
+		<phrase id="3499">be decreased to</phrase>
+		<phrase id="3500">be increased to</phrase>
+		<phrase id="3501">the length of the late start on</phrase>
+		<phrase id="3502">the quantity of lessons per day</phrase>
+		<phrase id="3503">the quantity of lessons on</phrase>
+		<phrase id="3504">the length of the minimal sequence</phrase>
+		<phrase id="3505">the length of the maximal sequence</phrase>
+		<phrase id="3506">the earliest possible lesson</phrase>
+		<phrase id="3507">to decrease the</phrase>
+		<phrase id="3508">to increase the</phrase>
+		<phrase id="3509">be</phrase>
+		<phrase id="3510">the earliest possible lesson on</phrase>
+		<phrase id="3511">the latest possible lesson</phrase>
+		<phrase id="3512">the latest possible lesson on</phrase>
+		<phrase id="3513">ID</phrase>
+		<phrase id="3514">Total</phrase>
+		<phrase id="3515">Min.</phrase>
+		<phrase id="3516">Max.</phrase>
+		<phrase id="3517">Desr.</phrase>
+		<phrase id="3518">Viol.</phrase>
+		<phrase id="3519">The syntax of the value you entered is incorrect.</phrase>
+		<phrase id="3520">The value you entered is too small for this constraint.</phrase>
+		<phrase id="3521">The value you entered is too large for this constraint.</phrase>
+		<phrase id="3522">The maximum should be larger than the minimum or equal to it.</phrase>
+		<phrase id="3523">The value in the desirable field should be in the min-max range.</phrase>
+		<phrase id="3524">To solve this problem, click on "Solve" at the bottom of this window.</phrase>
+		<phrase id="3525">To solve all problems, click on "Solve All"</phrase>
+		<phrase id="3526">Saved.</phrase>
+		<phrase id="3527">Block of</phrase>
+		<phrase id="3528">is already scheduled at</phrase>
+		<phrase id="3529">Conflict with</phrase>
+		<phrase id="3530">occupied by</phrase>
+		<phrase id="3531">is used by</phrase>
+		<phrase id="3532">What to Do?</phrase>
+		<phrase id="3533">Do not schedule</phrase>
+		<phrase id="3534">It is impossible to schedule because of the following blocks:</phrase>
+		<phrase id="3535">Blocks</phrase>
+		<phrase id="3536">Ignore conflicts and schedule</phrase>
+		<phrase id="3537">Delete conflicting and schedule</phrase>
+		<phrase id="3538">Scheduling in this cell causes the following conflicts:</phrase>
+		<phrase id="3539">Number of pending problems</phrase>
+		<phrase id="3540">I have increased the time dedicated to solving each problem to -</phrase>
+		<phrase id="3541">seconds</phrase>
+		<phrase id="3542">Now I will run the engine again to solve the remaining problems</phrase>
+		<phrase id="3543">In</phrase>
+		<phrase id="3544">seconds I will run the engine again</phrase>
+		<phrase id="3545">Automatic Construction</phrase>
+		<phrase id="3546">The automatic construction engine is now working. Please be patient. You can press on "Stop" any time during the process to halt construction.</phrase>
+		<phrase id="3547">The number of remaining problems</phrase>
+		<phrase id="3548">The number of improvements made</phrase>
+		<phrase id="3549">Pending problems without solution</phrase>
+		<phrase id="3550">Copying Schedule</phrase>
+		<phrase id="3551">Automatic Move</phrase>
+		<phrase id="3552">Elapsed time for current problem</phrase>
+		<phrase id="3553">Initializing Engine</phrase>
+		<phrase id="3554">Now I am initializing the automatic construction engine. Please wait patiently.</phrase>
+		<phrase id="3555">Progress</phrase>
+		<phrase id="3556">Activity No.</phrase>
+		<phrase id="3557">Computing Conflicts</phrase>
+		<phrase id="3558">Group No.</phrase>
+		<phrase id="3559">Object No.</phrase>
+		<phrase id="3560">Fixations</phrase>
+		<phrase id="3561">Constraint No.</phrase>
+		<phrase id="3562">Loading Schedule</phrase>
+		<phrase id="3563">Please fill this field.</phrase>
+		<phrase id="3564">Equipment comprises the accessories that activities may require.</phrase>
+		<phrase id="3565">Equipment Type</phrase>
+		<phrase id="3566">Choose Here</phrase>
+		<phrase id="3567">and</phrase>
+		<phrase id="3568">or</phrase>
+		<phrase id="3569">The group contains at least</phrase>
+		<phrase id="3570">A Group unites students studying together.</phrase>
+		<phrase id="3571">Simultaneously</phrase>
+		<phrase id="3572">Consecutively</phrase>
+		<phrase id="3573">You tried to lower the quantity field for an activity that is scheduled more times than the new value. First you need to delete some of the cells from the schedule.</phrase>
+		<phrase id="3574">The value in the Length field should be between 1 and the value in the Quantity field.</phrase>
+		<phrase id="3575">You cannot change the Group, Subject or Teacher of an activity that is already scheduled in the schedule. You must first delete it fully from the schedule.</phrase>
+		<phrase id="3576">Planned</phrase>
+		<phrase id="3577">Each row represents one Activity.</phrase>
+		<phrase id="3578">Preferences</phrase>
+		<phrase id="3579">This window allows you to solve specific problems in the schedule.</phrase>
+		<phrase id="3580">Select a problematic cell in the schedule.</phrase>
+		<phrase id="3581">Select in the list at the left the type of violated constraint in that cell.</phrase>
+		<phrase id="3582">There is no problem of</phrase>
+		<phrase id="3583">in the selected cells</phrase>
+		<phrase id="3584">The day is divided into even length periods (Lessons).</phrase>
+		<phrase id="3585">General information about the school.</phrase>
+		<phrase id="3586">Contents</phrase>
+		<phrase id="3587">Axes</phrase>
+		<phrase id="3588">Columns</phrase>
+		<phrase id="3589">The way Sets are treated and shown.</phrase>
+		<phrase id="3590">The size of the table and cells.</phrase>
+		<phrase id="3591">Axes flipping and table scaling.</phrase>
+		<phrase id="3592">Font and size of shown text.</phrase>
+		<phrase id="3593">Titles, order and sorting.</phrase>
+		<phrase id="3594">Column</phrase>
+		<phrase id="3595">Title</phrase>
+		<phrase id="3596">The way Groups are treated in reports.</phrase>
+		<phrase id="3597">The information shown in cells.</phrase>
+		<phrase id="3598">The type of schedule to print, whose and on how many pages.</phrase>
+		<phrase id="3599">The type of report to print, whose and on how many pages.</phrase>
+		<phrase id="3600">Various print settings.</phrase>
+		<phrase id="3601">Printer choice, layout and number of pages.</phrase>
+		<phrase id="3602">The contents and position of header and footer.</phrase>
+		<phrase id="3603">Document preview as it will be printed.</phrase>
+		<phrase id="3604">Lantiv Timetabler www.lantiv.com</phrase>
+		<phrase id="3605">Constraint</phrase>
+		<phrase id="3606">Objects</phrase>
+		<phrase id="3607">Violation</phrase>
+		<phrase id="3608">Detecing Problems</phrase>
+		<phrase id="3609">Violations</phrase>
+		<phrase id="3610">Solve All</phrase>
+		<phrase id="3611">Stop</phrase>
+		<phrase id="3612">Solve</phrase>
+		<phrase id="3613">You are now in the Automatic Mode. In this mode, the program constructs the schedule automatically, according to the constraints you entered. All existing violations in the schedule are shown in the window above. Press on "Solve All" at the bottom to try to solve these problems.</phrase>
+		<phrase id="3614">No</phrase>
+		<phrase id="3615" icon="Icons\Time.png:16">Day</phrase>
+		<phrase id="3616" icon="Icons\Time.png:0">Lesson</phrase>
+		<phrase id="3617">Type</phrase>
+		<phrase id="3619">Curriculary</phrase>
+		<phrase id="3620">Supplemental</phrase>
+		<phrase id="3621">Scheduled Activities</phrase>
+		<phrase id="3622">Supplemental Pay</phrase>
+		<phrase id="3623">Supplemental Totals</phrase>
+		<phrase id="3624">Showing Report</phrase>
+		<phrase id="3625">Please choose the type of the report.</phrase>
+		<phrase id="3626">Please choose the object(s) in the list above.</phrase>
+		<phrase id="3627">There is no statistic report for this selection.</phrase>
+		<phrase id="3628">The selected rows will be deleted. Continue?</phrase>
+		<phrase id="3629">An integer or decimal value should be entered.</phrase>
+		<phrase id="3630">An integer value should be entered.</phrase>
+		<phrase id="3631">A Room is the place where activities can take place.</phrase>
+		<phrase id="3632">This value is illegal.</phrase>
+		<phrase id="3633">Please fill this field with a positive value.</phrase>
+		<phrase id="3634">An object with this number already exists in the list.</phrase>
+		<phrase id="3635">Each Student attends one or more groups.</phrase>
+		<phrase id="3636">By Groups</phrase>
+		<phrase id="3637">Please select a student. Now a group is selected.</phrase>
+		<phrase id="3638">A Subject is the theme of the activity.</phrase>
+		<phrase id="3639">at</phrase>
+		<phrase id="3640">A Teacher supervises and teaches groups.</phrase>
+		<phrase id="3645">All Equipment</phrase>
+		<phrase id="3646">Report</phrase>
+		<phrase id="3647" icon="Icons\Functions.png:6">Save</phrase>
+		<phrase id="3648">Axes Flipping</phrase>
+		<phrase id="3649">Flip axes in a weekly schedule</phrase>
+		<phrase id="3650">Flip axes in a daily schedule</phrase>
+		<phrase id="3651">Flip axes in a personal schedule</phrase>
+		<phrase id="3652">Scale</phrase>
+		<phrase id="3653">Same height for all rows</phrase>
+		<phrase id="3654">Same width for all columns</phrase>
+		<phrase id="3655">Show</phrase>
+		<phrase id="3656">Hide</phrase>
+		<phrase id="3657">The activity is not scheduled according to its length definition</phrase>
+		<phrase id="3658">The cell will be deleted and rescheduled automatically later</phrase>
+		<phrase id="3659">The activity is scheduled in a blocked cell</phrase>
+		<phrase id="3660">The activity conflicts with another scheduled activity</phrase>
+		<phrase id="3661">The room and/or equipment are not scheduled as required</phrase>
+		<phrase id="3662">The activity is scheduled too many times</phrase>
+		<phrase id="3663">Return to Interactive Mode</phrase>
+		<phrase id="3664">Continue to Automatic Mode</phrase>
+		<phrase id="3665">Validity Check</phrase>
+		<phrase id="3666">Your data and/or schedule are not fully valid</phrase>
+		<phrase id="3667">Below are the causes for the found inconsistencies in your data.</phrase>
+		<phrase id="3668">Inconsistencies</phrase>
+		<phrase id="3669">Save and Backup Settings</phrase>
+		<phrase id="3670">Check several cells</phrase>
+		<phrase id="3671">Week</phrase>
+		<phrase id="3672">Until lesson</phrase>
+		<phrase id="3673">Add</phrase>
+		<phrase id="3674">Remove</phrase>
+		<phrase id="3675">Sub Group of</phrase>
+		<phrase id="3676">Conflicts with the Groups</phrase>
+		<phrase id="3677">Close</phrase>
+		<phrase id="3678">The defined quantity for the activities in the set is not the same for all activities</phrase>
+		<phrase id="3679">The quantity that will be scheduled is</phrase>
+		<phrase id="3680">The defined length for the activities in the set is not the same for all activities</phrase>
+		<phrase id="3681">The length that will be scheduled is</phrase>
+		<phrase id="3682">http://www.lantiv.com</phrase>
+		<phrase id="3683">www.lantiv.com</phrase>
+		<phrase id="3684">The trial time period has ended. Please contact Lantiv to continue using the software.</phrase>
+		<phrase id="3685">Sub Group</phrase>
+		<phrase id="3686" icon="Icons\Functions.png:24">New</phrase>
+		<phrase id="3687" icon="Icons\Functions.png:26">Move down</phrase>
+		<phrase id="3688" icon="Icons\Functions.png:27">Move up</phrase>
+		<phrase id="3689">Update when the selection in the schedule changes</phrase>
+		<phrase id="3690">Hide fully scheduled activities</phrase>
+		<phrase id="3691">Sort according to the number of free cells</phrase>
+		<phrase id="3692">Define a color for the selected Set</phrase>
+		<phrase id="3693">Remove the selected rows from the Set</phrase>
+		<phrase id="3694">Create a Set out of the selected rows</phrase>
+		<phrase id="3695">Create a new Set by row numbers</phrase>
+		<phrase id="3696">Insert row</phrase>
+		<phrase id="3697">Delete selected rows</phrase>
+		<phrase id="3698">Daily schedule</phrase>
+		<phrase id="3699">Personal schedule</phrase>
+		<phrase id="3700">First in sorting order</phrase>
+		<phrase id="3701">Second in sorting order</phrase>
+		<phrase id="3702">Third in sorting order</phrase>
+		<phrase id="3703">Select all</phrase>
+		<phrase id="3704">Bold</phrase>
+		<phrase id="3705">Italic</phrase>
+		<phrase id="3706">Underline</phrase>
+		<phrase id="3707">Align to left</phrase>
+		<phrase id="3708">Align to center</phrase>
+		<phrase id="3709">Align to right</phrase>
+		<phrase id="3710">Insert image</phrase>
+		<phrase id="3711">Insert page number</phrase>
+		<phrase id="3712">Insert date</phrase>
+		<phrase id="3713">Show information about the selected violation</phrase>
+		<phrase id="3714">Set random colors</phrase>
+		<phrase id="3715">Next</phrase>
+		<phrase id="3716">Previous</phrase>
+		<phrase id="3717" icon="Icons\Functions.png:10">Copy</phrase>
+		<phrase id="3718">The quantity that will be scheduled is</phrase>
+		<phrase id="3719">The length of the activity is larger than the quantity of its cells</phrase>
+		<phrase id="3720">The quantity of cells is not divisible by the length</phrase>
+		<phrase id="3721">The quantity of activities is larger than the available quantity of cells for</phrase>
+		<phrase id="3722">Free cells</phrase>
+		<phrase id="3723">because</phrase>
+		<phrase id="3724">are blocked</phrase>
+		<phrase id="3725">It will not be possible to schedule all planned activities</phrase>
+		<phrase id="3726">Delete sub groups</phrase>
+		<phrase id="3727">Fixated</phrase>
+		<phrase id="3728">Free cells before and after which there are scheduled cells.</phrase>
+		<phrase id="3729">Free cells at the beginning of the day, after which there are scheduled cells.</phrase>
+		<phrase id="3730">The possible length of the minimal and maximal sequence of cells.</phrase>
+		<phrase id="3731">The quantity of scheduled cells on a specific day.</phrase>
+		<phrase id="3732">The earliest and latest lesson for the activities to be scheduled.</phrase>
+		<phrase id="3733">All the activities you entered in the database.</phrase>
+		<phrase id="3734">All the activities scheduled in the schedule.</phrase>
+		<phrase id="3735">Activities which conflict with each other, yet scheduled in the schedule.</phrase>
+		<phrase id="3736">All the objects unscheduled and unblocked at all the selected periods.</phrase>
+		<phrase id="3737">All the objects blocked at one of the selected periods.</phrase>
+		<phrase id="3738">All the objects you entered in the database.</phrase>
+		<phrase id="3739">Supplemental pay entry for teachers and their curriculary hours.</phrase>
+		<phrase id="3740">Supplemental pay and curriculary hours sum for each teacher.</phrase>
+		<phrase id="3741">can contain only</phrase>
+		<phrase id="3742">contains</phrase>
+		<phrase id="3743">The following rooms are too small for the activity</phrase>
+		<phrase id="3744">The activity will only be scheduled to large enough rooms</phrase>
+		<phrase id="3745">Show violations only</phrase>
+		<phrase id="3746">Minimal no. of students:</phrase>
+		<phrase id="3747">Click to scroll</phrase>
+		<phrase id="3748">Please choose</phrase>
+		<phrase id="3749">Students in Groups</phrase>
+		<phrase id="3750">The groups in which each student participates.</phrase>
+		<phrase id="3751">Step</phrase>
+		<phrase id="3752">of</phrase>
+		<phrase id="3753">How to</phrase>
+		<phrase id="3754">Stop tutorial</phrase>
+		<phrase id="3755">Stop explaining</phrase>
+		<phrase id="3756">I understand</phrase>
+		<phrase id="3757">I have a question</phrase>
+		<phrase id="3758">Contact Lantiv</phrase>
+		<phrase id="3759">Lantiv has a support team waiting for your questions and will be happy to answer. You can contact us by email or through the forum in our web-site</phrase>
+		<phrase id="3760">First You Need to</phrase>
+		<phrase id="3761">Emergency</phrase>
+		<phrase id="3762">Normally, the Activation Code can be obtained via Lantiv's web-site (www.lantiv.com) through the Client Login section.\n\nIf, for any reason, you cannot access the Internet or our web-site is unreachable, you can call us and leave your Program Code at the following number:\n\n(00) [plus]972 4 989 20 70\n\nWe will call you back with the matching Activation Code.</phrase>
+		<phrase id="3763">According to the constraints you have entered, there are no problems with the schedule. The schedule is now 100% ready.\n\nYou may enter additional constraints by clicking on the Constraints tab at the left bottom corner, or using the Preferences window.</phrase>
+		<phrase id="3764">Print lesson times</phrase>
+		<phrase id="3765">Days</phrase>
+		<phrase id="3766">The schedule is divided into weeks and days.</phrase>
+		<phrase id="3767">The backup will start in</phrase>
+		<phrase id="3768">Note: this is a beta version of the product and might still contain bugs.</phrase>
+		<phrase id="3769">Need to report a bug?</phrase>
+		<phrase id="3770">Want to suggest something new?</phrase>
+		<phrase id="3771">Online Support</phrase>
+		<phrase id="3772">Online Discussion Forum</phrase>
+		<phrase id="3773">Email</phrase>
+		<phrase id="3774">Visit</phrase>
+		<phrase id="3775">support@lantiv.com</phrase>
+		<phrase id="3776">order@lantiv.com</phrase>
+		<phrase id="3777">Open Database</phrase>
+		<phrase id="3778">Open Scheduling Workspace</phrase>
+		<phrase id="3779">of the activities are scheduled</phrase>
+		<phrase id="3780">Close</phrase>
+		<phrase id="3781">and</phrase>
+		<phrase id="3782">The same room is selected for two activities in a set</phrase>
+		<phrase id="3783">Only the first activity will be scheduled in that room</phrase>
+		<phrase id="3784">The automatic engine works only with 16 lessons or fewer. You have more than 16 lessons in your database.</phrase>
+		<phrase id="3785">Note: The Trial Version of Lantiv Timetabler does not consider Blocks and Fixations in the Automatic mode.</phrase>
+		<phrase id="3786">Type of object</phrase>
+		<phrase id="3787">Type of schedule</phrase>
+		<phrase id="3788">This feature is disabled in the trial version of Lantiv Timetabler.</phrase>
+		<phrase id="3789">Show lesson times</phrase>
+		<phrase id="3790">Show lesson names or times</phrase>
+		<phrase id="3791">Center text horizontally</phrase>
+		<phrase id="3792">Word wrap</phrase>
+		<phrase id="3793">Center text vertically</phrase>
+		<phrase id="3794">Swap the two cells</phrase>
+		<phrase id="3795">Schedule in</phrase>
+		<phrase id="3796">Automatically choose any available free room</phrase>
+		<phrase id="3797">Highlight scheduled cells in blue</phrase>
+		<phrase id="3798">Use a smaller font if text does not fit</phrase>
+		<phrase id="3799">Center the text vertically</phrase>
+		<phrase id="3800">Center the text horizontally</phrase>
+		<phrase id="3801">Split cells vertically</phrase>
+		<phrase id="3802">Alignment</phrase>
+		<phrase id="3803">Color of axis cells</phrase>
+		<phrase id="3804">Color of lines</phrase>
+		<phrase id="3805">Color of inner lines</phrase>
+		<phrase id="3806">Thickness of lines</phrase>
+		<phrase id="3807">Thickness of inner lines</phrase>
+		<phrase id="3808">You can change the settings in the list above.</phrase>
+		<phrase id="3809">Deleted</phrase>
+		<phrase id="3810">Added</phrase>
+		<phrase id="3811">Old Room</phrase>
+		<phrase id="3812">New Room</phrase>
+		<phrase id="3813">PDF</phrase>
+		<phrase id="3814">Generate index page</phrase>
+		<phrase id="3815">Links between pages</phrase>
+		<phrase id="3820">Fixed Width</phrase>
+		<phrase id="3821">File</phrase>
+		<phrase id="3822">Backup [file] before import</phrase>
+		<phrase id="3824">FTP</phrase>
+		<phrase id="3825">FTP Address</phrase>
+		<phrase id="3826">Directory</phrase>
+		<phrase id="3827">Username</phrase>
+		<phrase id="3828">Example</phrase>
+		<phrase id="3829">Merge cells across lessons</phrase>
+		<phrase id="3830">Merge cells across days</phrase>
+		<phrase id="3831">Merge cells across objects</phrase>
+		<phrase id="3832">Cell Merging</phrase>
+		<phrase id="3833">Only for</phrase>
+		<phrase id="3834">Time Scale</phrase>
+		<phrase id="3835">Allow scheduling precision of up to</phrase>
+		<phrase id="3836">Time scale intervals</phrase>
+		<phrase id="3837">Time scale sub-intervals</phrase>
+		<phrase id="3838">You can define a separate list of lessons for specific objects. Please choose the objects below.</phrase>
+		<phrase id="3839">You can define a separate list of lessons for specific days. Please choose the days below.</phrase>
+		<phrase id="3840">Elective</phrase>
+		<phrase id="3841">Electives</phrase>
+		<phrase id="3842" icon="Icons\Time.png:10">Activity</phrase>
+		<phrase id="3843">Equipment</phrase>
+		<phrase id="3863">Changes</phrase>
+		<phrase id="3866">Dates</phrase>
+		<phrase id="3867">Date</phrase>
+		<phrase id="3868">All Days</phrase>
+		<phrase id="3869">All Objects</phrase>
+		<phrase id="3870">Choice</phrase>
+		<phrase id="3871">Choices</phrase>
+		<phrase id="3872">No. to Choose</phrase>
+		<phrase id="3873">Distance</phrase>
+		<phrase id="3874">Weekdays</phrase>
+		<phrase id="3875">Start Date</phrase>
+		<phrase id="3876">End Date</phrase>
+		<phrase id="3877">Set</phrase>
+		<phrase id="3878">Periods</phrase>
+		<phrase id="3879">Sub Periods</phrase>
+		<phrase id="3880">Precision</phrase>
+		<phrase id="3881">Cell</phrase>
+		<phrase id="3882">Note</phrase>
+		<phrase id="3883">Style</phrase>
+		<phrase id="3884">Picture</phrase>
+		<phrase id="3885">Tags</phrase>
+		<phrase id="3886">Semester</phrase>
+		<phrase id="3887">Semesters</phrase>
+		<phrase id="3888">Sub Subject of</phrase>
+		<phrase id="3889">Group Students</phrase>
+		<phrase id="3890">Property</phrase>
+		<phrase id="3891">Value</phrase>
+		<phrase id="3892">Institution Type</phrase>
+		<phrase id="3893">Search</phrase>
+		<phrase id="3900">|Database;Open the Database</phrase>
+		<phrase id="3901">|Constraints;Open Constraints entry</phrase>
+		<phrase id="3902">|Schedule;Open Schedule view</phrase>
+		<phrase id="3903">|Reports;Open Reports view</phrase>
+		<phrase id="3904">Exit;Close the program</phrase>
+		<phrase id="3905">Recently Opened</phrase>
+		<phrase id="3906" icon="Icons\Functions.png:50">New...;Open a new file</phrase>
+		<phrase id="3907" icon="Icons\Functions.png:37">Open...;Open an existing file</phrase>
+		<phrase id="3908" icon="Icons\Functions.png:6">|Save;Save the changes you made</phrase>
+		<phrase id="3909">Save As...;Save the file by a new name</phrase>
+		<phrase id="3910">Close;Close the currently opened file</phrase>
+		<phrase id="3911">Backup...;Compress and backup the file</phrase>
+		<phrase id="3912">Restore...;Restore a previously backed up file</phrase>
+		<phrase id="3913">Save and Backup Settings...;Save and backup notifications and automatic backup</phrase>
+		<phrase id="3914" icon="Icons\Functions.png:7">|Print...;Print the schedule or the report</phrase>
+		<phrase id="3915">|User's Guide;View the user's guide</phrase>
+		<phrase id="3916">Doctor Scheduler</phrase>
+		<phrase id="3917">Run at Entry;Run the Doctor when you start the program</phrase>
+		<phrase id="3918">About...;About Lantiv Timetabler</phrase>
+		<phrase id="3919">Delete</phrase>
+		<phrase id="3920" icon="Icons\Functions.png:10">Copy</phrase>
+		<phrase id="3921" icon="Icons\Functions.png:12">Paste</phrase>
+		<phrase id="3922" icon="Icons\Functions.png:8">Undo</phrase>
+		<phrase id="3923" icon="Icons\Functions.png:9">Redo</phrase>
+		<phrase id="3924">Delete</phrase>
+		<phrase id="3925" icon="Icons\Functions.png:10">Copy</phrase>
+		<phrase id="3926" icon="Icons\Functions.png:11">Cut</phrase>
+		<phrase id="3927" icon="Icons\Functions.png:12">Paste</phrase>
+		<phrase id="3928">Block</phrase>
+		<phrase id="3929">Unblock</phrase>
+		<phrase id="3930">Fixate</phrase>
+		<phrase id="3931">Unfixate</phrase>
+		<phrase id="3932">Delete All;Delete all cells in the schedule</phrase>
+		<phrase id="3933">Unblock All;Unblock all blocks in the schedule</phrase>
+		<phrase id="3934">Add Row</phrase>
+		<phrase id="3935">Add Text Row</phrase>
+		<phrase id="3936">Delete</phrase>
+		<phrase id="3937" icon="Icons\Functions.png:10">Copy</phrase>
+		<phrase id="3938" icon="Icons\Functions.png:12">Paste</phrase>
+		<phrase id="3939">Sort</phrase>
+		<phrase id="3940">|Settings...;Various view settings</phrase>
+		<phrase id="3941">Font...;Change the font of the schedule</phrase>
+		<phrase id="3942">Zoom Out;Use a smaller font to view the schedule</phrase>
+		<phrase id="3943">Wrap Cells</phrase>
+		<phrase id="3944">Flip Axes</phrase>
+		<phrase id="3945">|Settings...;Various view settings</phrase>
+		<phrase id="3946">Font..;Change the font of the report</phrase>
+		<phrase id="3947">Activities Window</phrase>
+		<phrase id="3948">Violations Window</phrase>
+		<phrase id="3949">Who is Free? Window</phrase>
+		<phrase id="3950">Where is Free? Window</phrase>
+		<phrase id="3951">New Docked Schedule</phrase>
+		<phrase id="3952">New Floating Schedule</phrase>
+		<phrase id="3953">Tile Floating</phrase>
+		<phrase id="3954">Close All Floating</phrase>
+		<phrase id="3955">Send a Question to: support@lantiv.com</phrase>
+		<phrase id="3956">|Online Forum</phrase>
+		<phrase id="3957">Online Client Login</phrase>
+		<phrase id="3958">|Show Me How to</phrase>
+		<phrase id="3959">|Explain to Me</phrase>
+		<phrase id="3960" icon="Icons\Functions.png:74">Start</phrase>
+		<phrase id="3961" icon="Icons\Functions.png:37">File</phrase>
+		<phrase id="3962" icon="Icons\Documents.png:2">Edit</phrase>
+		<phrase id="3963" icon="Icons\Functions.png:21">View</phrase>
+		<phrase id="3964" icon="Icons\Functions.png:15">Tools</phrase>
+		<phrase id="3965" icon="Icons\Functions.png:19">Help</phrase>
+		<phrase id="3966" icon="Icons\Functions.png:75">Finish</phrase>
+	</phrases>
+	<tutorials>
+		<tutorial id="60002" name="Start a new file">
+			<step icon="11">Click here to open the File menu. Then click on New.</step>
+			<step icon="13">Type the name of the new file here. Afterwards, press on Enter on the keyboard.</step>
+		</tutorial>
+		<tutorial id="60006" name="Open an existing file">
+			<step icon="11">Click here to open the File menu. Then click on Open.</step>
+			<step icon="12">Choose the folder in which the file exists in the list at the top, and then double click on the file in this list.</step>
+			<step icon="11">Now you can view the Database, Constraints, Timetable or Reports for this file.<br/><br/>Database contains data such as subjects, groups, teachers, activities etc.<br/><br/>Timetable is the main view from which interactive and automatic scheduling is done.<br/><br/>To enter one of these modules, click on Start and then choose the module in the menu.</step>
+			<step icon="3">The Help menu now contains new tutorials for the functions in this screen. The Help menu is always updated to reflect your current position in the program.</step>
+		</tutorial>
+		<tutorial id="60012" name="Open the sample file">
+			<step icon="11">Click here to open the File menu. Then click on Open.</step>
+			<step icon="12">Double click on "Sample School.schedx" in the list.</step>
+			<step icon="11">Now you can view the Database, Constraints, Timetable or Reports for this file.<br/><br/>Database contains data such as subjects, groups, teachers, activities etc.<br/><br/>Timetable is the main view from which interactive and automatic scheduling is done.<br/><br/>To enter one of these modules, click on Start and then choose the module in the menu.</step>
+			<step icon="3">The Help menu now contains new tutorials for the functions in this screen. The Help menu is always updated to reflect your current position in the program.</step>
+		</tutorial>
+		<tutorial id="60018" name="Save the file under a different name">
+			<step icon="11">Click here to open the File menu. Then click on Save As.</step>
+			<step icon="13">Type the new file name here. Afterwards, press on Enter on the keyboard.</step>
+		</tutorial>
+		<tutorial id="60022" name="Backup the file">
+			<step icon="11">Click here to open the File menu. Then click on Backup.</step>
+			<step icon="13">Choose the folder into which you want to backup the file in the list at the top, and then type the name of the backup file in this field. When finished, click on Save.</step>
+		</tutorial>
+		<tutorial id="60026" name="Restore a backed up file">
+			<step icon="11">Click here to open the File menu. Then click on Restore.</step>
+			<step icon="12">Choose the folder in which exists the backed up file in the list at the top, and then double click on that file.</step>
+			<step icon="13">Now type the name of the new file that will be created after the restore. When finished, click on Save.</step>
+		</tutorial>
+		<tutorial id="60031" name="Navigate in the database">
+			<step icon="3">The Database window allows you to enter all initial data such as subjects, groups, teachers, activities etc. Each type of data is entered at a different page.</step>
+			<step icon="3">Use this navigation bar to choose the page you currently see.</step>
+			<step icon="3">You can resize the Database window by dragging its border.</step>
+			<step icon="3">Clicking on OK will save the data you entered and close the Database.</step>
+			<step icon="3">Clicking on Save will simply save the data you entered. Be sure to save your work from time to time.</step>
+			<step icon="3">Clicking on Cancel will close the Database without saving the data you entered.</step>
+		</tutorial>
+		<tutorial id="60039" name="Enter general data">
+			<step icon="3">School name, number, principal name, telephone, fax and address fields are free editing fields. Clicking inside the edit field with the mouse will allow you to edit the field's contents.</step>
+			<step icon="3">The Teaching Days field is the most important field on this page. You must select here the days on which studying takes place in your school. This is done by clicking with the mouse inside the square near the day's name in the list.</step>
+			<step icon="3">You can change a day's name by clicking on the day in the list, and then clicking on this button.</step>
+		</tutorial>
+		<tutorial id="60044" name="Select teaching days">
+			<step icon="11">To select a day, click with the mouse inside the check-box that appears next to the days's name.</step>
+		</tutorial>
+		<tutorial id="60047" name="Rename a day">
+			<step icon="12">Double click on the day's name.</step>
+		</tutorial>
+		<tutorial id="60050" name="Add a new lesson">
+			<step icon="11">Click on this button to display the Lesson details window.</step>
+			<step icon="3">You can type the name of the lesson here. The name can be a number, for example: "1", "2", "3" etc; or - the actual time range, for example: "8:00-8:45".</step>
+			<step icon="3">This field is optional. If your institution does not have lessons (usually identified by a bell), you can add lessons so that each lesson is 15 minutes or 30 minutes. In such case, you should define that the lessons 8:00-8:30 and 8:30-9:00 are sub lessons of 8:00-9:00 (type "8:00-9:00" in this field). Then the timetable grid will be drawn more neatly.</step>
+			<step icon="3">These two fields are optional You can specify the start and end time of the lesson. This will appear in printouts. It does not affect anything else in the program.</step>
+		</tutorial>
+		<tutorial id="60056" name="Add a new subject">
+			<step icon="11">Click on this button to display the Subject details window.</step>
+			<step icon="13">Type the name of the subject here.</step>
+		</tutorial>
+		<tutorial id="60060" name="Add a new group">
+			<step icon="11">Click on this button to display the Group details window.</step>
+			<step icon="3">In this window you can type the name of the group. You can also specify the quantity of students.</step>
+			<step icon="3">If this group contains students from another group ("Parent Group "), and you want this group's timetable to always be a part of the Parent Group's timetable, place a check mark near "Sub group of" and then check the Parent Group in the list of groups at the bottom of the window.</step>
+		</tutorial>
+		<tutorial id="60065" name="Add a new student">
+			<step icon="11">Click on this button to display the Student details window.</step>
+			<step icon="3">In this window you need to type the student's ID, first name and last name.</step>
+			<step icon="3">The ID is a number. Each student must have a unique ID.</step>
+			<step icon="3">In this list you can select the groups to which the student is enrolled. If a group to which the student is enrolled is scheduled - the student is automatically scheduled too. To select a group, click inside the square that appears near the group's name.</step>
+		</tutorial>
+		<tutorial id="60071" name="Add a new teacher">
+			<step icon="11">Click on this button to display the Teacher details window.</step>
+			<step icon="3">In this window you need to type the teacher's first and last names.</step>
+			<step icon="3">Each teacher can be assigned a color. All the cells in which this teacher is scheduled will be painted with that color. This eases the navigation in the timetable later on. To choose a color, click here.</step>
+		</tutorial>
+		<tutorial id="60076" name="Assign random colors to teachers">
+			<step icon="11">Click here.</step>
+		</tutorial>
+		<tutorial id="60079" name="Add a new room">
+			<step icon="11">Click on this button to display the Room details window.</step>
+			<step icon="3">In this window you need to type the room's name.</step>
+			<step icon="3">You can define the number of students that this room can contain. This is useful if you do not want a group which contains more students that what the room can hold to be scheduled in that room.</step>
+		</tutorial>
+		<tutorial id="60084" name="Add a new equipment type">
+			<step icon="11">Click on this button to display the Equipment details window.</step>
+			<step icon="3">In this window you need to type the equipment type's name.</step>
+			<step icon="3">You can define here the number of items of this equipment type in stock. If you leave this field blank, the program will think there is an infinite number of items.</step>
+		</tutorial>
+		<tutorial id="60089" name="Define that two groups conflict">
+			<step icon="3">The program will automatically know that two groups conflict if there is a student in the Students page which is enrolled to both groups. In this case, you do not need to do anything in this page.<br/><br/>However, if you did not enter any students in the Students page, and wish to tell the program that two groups conflict with each other (that they have common students), you can do so in this page.</step>
+			<step icon="3">First you need to select one of the groups in the list, by clicking on it with the mouse.</step>
+			<step icon="3">Then you need to click on this button.</step>
+			<step icon="3">You can select with which groups this group conflicts in this list. Click in the square near the group's name to define that they conflict.</step>
+		</tutorial>
+		<tutorial id="60095" name="Know with which groups a group conflicts">
+			<step icon="3">If a group conflicts with any other groups, you can view these groups by simply clicking on the [plus] (plus) sign near the group's name in this list.</step>
+		</tutorial>
+		<tutorial id="60098" name="Define the quantity of common students">
+			<step icon="3">First you need to select the conflict in the list: use the [plus] (plus) sign to open the conflicts list of some group and then click on one of the conflicting groups with the mouse.</step>
+			<step icon="3">Then you need to click on this button.</step>
+			<step icon="13">Now you can edit here the number of common students for these two groups.<br/><br/>Note: if this field is disabled (gray), it means that there are actual students defined in the Students page, which are enrolled to both groups. In such case, you cannot manually edit the number of common students (their number is automatically calculated by the program according to the list of students in the Students page).</step>
+		</tutorial>
+		<tutorial id="60103" name="Delete a conflict">
+			<step icon="3">You can delete a conflict only if you manually created it. This means that there are no actual students entered in the Students page which are enrolled to the two conflicting groups, and you were the one who defined here that the two groups have common students.</step>
+			<step icon="3">First you need to select the conflict in the list: use the [plus] (plus) sign to open the conflicts list of some group and then click on one of the conflicting groups with the mouse.</step>
+			<step icon="3">Then you need to click on this button.</step>
+		</tutorial>
+		<tutorial id="60108" name="Delete an object">
+			<step icon="3">First you need to select the object in the list by clicking on it with the mouse.</step>
+			<step icon="3">Then click here to delete the selected object.</step>
+		</tutorial>
+		<tutorial id="60112" name="Update an object">
+			<step icon="3">First you need to select the object in the list by clicking on it with the mouse.</step>
+			<step icon="3">Then click here to display the object's details, which you will be able to update.<br/><br/>Hint: you can also simply double-click the object in the list.</step>
+		</tutorial>
+		<tutorial id="60116" name="Sort the objects alphabetically">
+			<step icon="11">Simply click on the name of the column by which you want to sort the list.</step>
+		</tutorial>
+		<tutorial id="60119" name="Change the order of objects">
+			<step icon="3">First you need to select the object which is not in its desired position.</step>
+			<step icon="3">Then click here to move it forward in the list.</step>
+			<step icon="3">Or here to move it backward in the list.</step>
+		</tutorial>
+		<tutorial id="60124" name="Add a new activity">
+			<step icon="11">Click here to add a new row to the list.</step>
+			<step icon="3">Each row represents one activity. An activity unites a group (or several groups), a subject, and a teacher - that all need to be scheduled together.</step>
+			<step icon="11">First click inside this cell. A gray button with a black arrow will appear in it. Click on that button.<br/><br/>You can choose the group(s) for the activity in the list which will appear.<br/><br/>If a single group in involved in the activity, simply click on the name of the group with the mouse.<br/><br/>If several groups are involved, you should click inside the square that appears to the left of the groups' names.<br/><br/>When finished, click again inside the cell with the gray button.</step>
+			<step icon="11">Now do the same in the subject field. Click inside the cell, then on the gray button and then select the subject in the list. Each activity has only one subject, so simply click on it in the list that opens up.</step>
+			<step icon="11">Finally, select the teacher in the same manner.</step>
+		</tutorial>
+		<tutorial id="60131">You have not entered any groups yet. In order to view this tutorial you need to have at least one group in your database. Please go to the "Groups" page and enter the groups.</tutorial>
+		<tutorial id="60132">You have not entered any subjects yet. In order to view this tutorial you need to have at least one subject in your database. Please go to the "Subjects" page and enter the subjects.</tutorial>
+		<tutorial id="60133">You have not entered any teachers yet. In order to view this tutorial you need to have at least one teacher in your database. Please go to the "Teachers" page and enter the teachers.</tutorial>
+		<tutorial id="60134" name="Define the length of an activity">
+			<step icon="11">The length is the number of consecutive lessons that the activity spreads over. For example, if you define that an activity's length is 2, the activity will always be scheduled 2 cells "back to back".<br/><br/>To define the length, click inside the Length column cell of the desired activity.<br/><br/>If you leave this field blank, the program will use the default length of 1.</step>
+			<step icon="13">Use the keyboard to type the length of the activity. Afterwards, press Enter.<br/><br/>If you need to delete it later on, you can use the Delete key on the keyboard.</step>
+		</tutorial>
+		<tutorial id="60138">You do not have any activities in the list. To view this tutorial, you need to add at least one activity.</tutorial>
+		<tutorial id="60139" name="Define the quantity of cells for an activity">
+			<step icon="11">The quantity defines the number of times (the number of cells) that an activity will be scheduled during the week. Each cell takes exactly one lesson. <br/><br/>To define the quantity, click inside the Quantity column cell of the desired activity.</step>
+			<step icon="13">Use the keyboard to type the quantity for the activity. Afterwards, press Enter.</step>
+		</tutorial>
+		<tutorial id="60143">You do not have any activities in the list. To view this tutorial, you need to add at least one activity.</tutorial>
+		<tutorial id="60144">Rooms and Equipment</tutorial>
+		<tutorial id="60145" name="Select rooms for an activity">
+			<step icon="11">If you need to schedule an activity into a room, you can define for it the rooms into which it can be scheduled.<br/><br/>During interactive timetabling, you will be able to pick one of the rooms and schedule the activity into it. During automatic timetabling, the software will do this on its own.<br/><br/>To define the rooms, click inside the Room column cell of the desired activity.</step>
+			<step icon="11">Now click on the gray button to show a list of rooms. To select one of the rooms in the list, click inside the square that appears to the left of the room's name.<br/><br/>When finished, click again inside this cell.</step>
+		</tutorial>
+		<tutorial id="60149">You have not entered any rooms yet. In order to view this tutorial you need to have at least one room in your database. Please go to the "Rooms" page and enter the rooms.</tutorial>
+		<tutorial id="60150">You do not have any activities in the list. To view this tutorial, you need to add at least one activity.</tutorial>
+		<tutorial id="60151" name="Select required equipment for an activity">
+			<step icon="11">If an activity requires special equipment, you can select it in the Equipment column. To do so, click inside the Equipment column cell of the desired activity.</step>
+			<step icon="11">Now click on the gray button to show a list of equipment types. In the list that opens up you can select for each equipment type, the number of items that this activity requires of that type. To choose the number, use the arrows to the left of the equipment's name.</step>
+		</tutorial>
+		<tutorial id="60155">You have not entered any equipment types yet. In order to view this tutorial you need to have at least one equipment type in your database. Please go to the "Equipment" page and enter equipment.</tutorial>
+		<tutorial id="60156">You do not have any activities in the list. To view this tutorial, you need to add at least one activity.</tutorial>
+		<tutorial id="60157" name="Delete an activity">
+			<step icon="3">First you need to click on the row number of the activity that you want to delete.</step>
+			<step icon="3">Then, click here.</step>
+		</tutorial>
+		<tutorial id="60161">You do not have any activities in the list. To view this tutorial, you need to add at least one activity.</tutorial>
+		<tutorial id="60162" name="Copy cells in the list">
+			<step icon="3">First you need to select the cell which you want to copy, by clicking on it with the mouse.</step>
+			<step icon="3">After selecting it, click here to copy its contents to memory.</step>
+			<step icon="11">Now click here to add a new row.</step>
+			<step icon="3">Now you need to select the cell into which you want to paste what you copied.</step>
+			<step icon="3">After selecting it, click here to paste the copied contents.</step>
+		</tutorial>
+		<tutorial id="60169">You do not have any activities in the list. To view this tutorial, you need to add at least one activity.</tutorial>
+		<tutorial id="60170">Sort and Order</tutorial>
+		<tutorial id="60171" name="Show only the activities of a specific object">
+			<step icon="11">Classifying activities means showing activities that belong to a specific object (for example, if you want to view the activities of only a specific teacher). Click here to show a list of objects.</step>
+			<step icon="3">You can classify according to groups, teachers and subjects. You can choose here the type of object whose activities you want to view.</step>
+			<step icon="3">Afterwards, click on the object in this list. If you click on the first row in the list, the activities list will show all objects' activities.</step>
+			<step icon="11">Finally, click here to return to the list of activities.</step>
+		</tutorial>
+		<tutorial id="60177" name="Sort the activities">
+			<step icon="12">Simply double click the column according to which you want to sort the list.</step>
+		</tutorial>
+		<tutorial id="60180" name="Change the order of activities">
+			<step icon="14">To move an activity to a new position in the list, you need to drag it with the mouse.<br/><br/>(1) Click with the mouse on the number of the row you want to move.<br/><br/>(2) Press the left mouse button and do NOT release it.<br/><br/>(3) Move the mouse to the new position of the row.<br/><br/>(4) Release the mouse button.</step>
+		</tutorial>
+		<tutorial id="60183">Simultaneous Activities (Sets)</tutorial>
+		<tutorial id="60184" name="Define that two activities must be scheduled at the same time">
+			<step icon="11">Several activities that must be scheduled in parallel are called a Set. First you need to add the activities to the list, in the same way as you add all activities. After adding the activities to the list, click here.</step>
+			<step icon="13">Now type here the numbers of the rows which must be scheduled simultaneously, separated by commas.</step>
+			<step icon="3">The activities you typed are now united together in a Set. A Set has a color and a title. All the cells in which it will be scheduled in the timetable will be drawn with that color and will contain the Set's title (unless you leave it blank).</step>
+			<step icon="13">To define the Set's title, you can click here and type it with the keyboard.</step>
+		</tutorial>
+		<tutorial id="60190" name="Define a Set's color">
+			<step icon="3">First you need to click inside some row in the Set.</step>
+			<step icon="3">Then click here to show a menu of colors and choose the desired color.</step>
+		</tutorial>
+		<tutorial id="60194" name="Delete a Set">
+			<step icon="3">First you need to select the Set. To do this, double-click on the number of one of the rows in the Set.</step>
+			<step icon="3">Afterwards, click here.</step>
+		</tutorial>
+		<tutorial id="60198" name="Navigate in the timetable">
+			<step icon="3">This is the Navigation Bar in which you choose what you see on screen.</step>
+			<step icon="3">The first three buttons define the type of the timetable - Weekly or Daily of all objects or Personal of a single object.</step>
+			<step icon="3">The following five buttons allow you to choose the type of object(s) whose timetable you see.</step>
+			<step icon="3">Finally comes the list of objects in which you can choose the object whose timetable is shown.</step>
+			<step icon="3">This is the main timetable grid. All interactive timetable operations such as scheduling activities, moving cells and deleting cells are done in this grid.</step>
+			<step icon="3">The Activities window contains all the activities that you have entered in the Database. This window has two main purposes:<br/><br/>(1) To drag and drop activities into the timetable.<br/><br/>(2) To show the number of free cells for each activity (shown in the circle in the leftmost column).</step>
+			<step icon="3">This is a "Mini-Timetable" window. It shows the personal timetable of the object that is scheduled in the currently selected cell in the main timetable grid.<br/><br/>For example, if you select a cell in which John is scheduled, you will see here John's personal timetable.</step>
+			<step icon="3">One last thing you should know, is that you can view window-specific tutorials if you click on this button in any window which has it.</step>
+		</tutorial>
+		<tutorial id="60208" name="Schedule an activity using Drag and Drop">
+			<step icon="3">Scheduling an activity means assigning to it a day and lesson. This is a very simple operation. Especially if you are familiar with Drag and Drop. During the drag and drop, the program will tell you where the activity can be scheduled without causing a conflict. Time slots in which the activity you are scheduling does not conflict with any other scheduled activity will be highlighted in green.</step>
+			<step icon="11">Interactive scheduling is always done from the Activities window.<br/><br/>Click here to enlarge this window.</step>
+			<step icon="11">First, click on the activity which you want to schedule. It should be an activity that is not already fully scheduled (the Quantity is larger than the Scheduled field).</step>
+			<step icon="14">Now the activity is selected. To schedule it, do the following:<br/><br/>(1) Press with the mouse on the group's or teacher's name and hold the mouse button pressed (to begin dragging).<br/><br/>(2) Move the mouse to the desired cell in the main timetable grid.<br/><br/>(3) Leave the mouse button (to drop the activity).<br/><br/>This will schedule the activity in that cell.</step>
+		</tutorial>
+		<tutorial id="60214">Interactive scheduling is done from the Activities window, but this window is not displayed right now.<br/><br/>Open the Tools menu and click on Show Activities Window. Afterwards, start this tutorial again.</tutorial>
+		<tutorial id="60215">Room Scheduling</tutorial>
+		<tutorial id="60216" name="Schedule an activity into a room">
+			<step icon="3">Scheduling an activity into a room means assigning to it a day, lesson and a room. The room can only be one of the rooms that you defined for it the Database, in the Activities page.<br/><br/>Scheduling an activity is a very simple operation. Especially if you are familiar with Drag and Drop. During the drag and drop, the program will tell you where the activity can be scheduled without causing a conflict. Time slots in which the activity you are scheduling does not conflict with any other scheduled activity and the room is free - will be highlighted in green.</step>
+			<step icon="11">Interactive scheduling is always done from the Activities window.<br/>Click here to enlarge this window.</step>
+			<step icon="11">First, click on the activity which you want to schedule. It should be an activity for which you defined at least one optional room.</step>
+			<step icon="11">Now scroll to the right to see the Room column.</step>
+			<step icon="11">Now you need to choose the room into which you want to schedule this activity. Click inside this cell, and then click on the arrow that appears at the right side of the cell. A list of rooms will appear in which you need to click on the desired room.</step>
+			<step icon="14">Now the activity and the room are selected. To schedule it, do the following:<br/><br/>(1) Press with the mouse on the group's or teacher's name and hold the mouse button pressed (to begin dragging).<br/><br/>(2) Move the mouse to the desired cell in the main timetable grid.<br/><br/>(3) Leave the mouse button (to drop the activity).<br/><br/>This will schedule the activity in that cell.</step>
+		</tutorial>
+		<tutorial id="60224">Room scheduling is done from the Activities window, but this window is not displayed right now.<br/><br/>Open the Tools menu and click on Show Activities Window. Afterwards, start this tutorial again.</tutorial>
+		<tutorial id="60225" name="Know which rooms are free at some lesson">
+			<step icon="11">It is easy to know which rooms are free at a specific lesson.<br/><br/>This information is provided to you by the "Who is Free?" window. Click here to maximize this window.</step>
+			<step icon="11">Now click here to switch to rooms view.</step>
+			<step icon="3">You have two ways of specifying the day and lesson:<br/><br/>(1) Choose the day and lesson in these two lists. As soon as you change the selection in one of these lists, the list of free rooms will be updated.</step>
+			<step icon="3">(2) The second way is to simply click on a cell in the timetable. Clicking on a cell in the timetable will immediately show in the "Who is Free?" window a list of rooms which are free at the time slot of that cell.</step>
+		</tutorial>
+		<tutorial id="60231">The information about the free rooms is provided by the "Who is Free?" window. However, this window is not displayed right now.<br/><br/>Open the Tools menu and click on Show Who is Free? Window. Afterwards, start this tutorial again.</tutorial>
+		<tutorial id="60232" name="Forbid scheduling at a specific cell">
+			<step icon="3">You can prevent the program from scheduling a teacher, group, room or equipment at a specific lesson (or a range of lessons). This is done by Blocking the cells at which scheduling is not allowed.<br/><br/>For example, if a teacher must be scheduled only in the afternoon, you can block his/her morning lessons. Nothing can be scheduled at a blocked time slot.</step>
+			<step icon="3">First you must choose here the object whose cell you want to block.</step>
+			<step icon="3">Afterwards, click inside the cell which you want to block. You can only block empty cells. If there is an activity scheduled in the cell, you must delete it first.</step>
+			<step icon="3">And finally, click here to open the Edit menu. Then, click on Block.</step>
+		</tutorial>
+		<tutorial id="60238" name="Move an already scheduled cell">
+			<step icon="3">Moving an already scheduled cell is easily done with drag and drop. During the drag and drop, the program will tell you where the cell can be moved without causing a conflict. Time slots in which the activity you are moving does not conflict with any other scheduled activity will be highlighted in green.</step>
+			<step icon="14">To move a cell, do the following:<br/><br/>(1) Click inside the cell and hold the mouse button pressed for 1 second.<br/><br/>(2) Move the mouse over the cell into which you want to move the original cell.<br/><br/>(3) Release the mouse button.</step>
+		</tutorial>
+		<tutorial id="60242" name="Know which cells can be moved into an empty cell">
+			<step icon="11">Simply click inside the empty cell and hold the mouse button pressed for 1 second. All the other cells in the timetable which can be moved into the empty cell, without causing a conflict, will be immediately highlighted.</step>
+		</tutorial>
+		<tutorial id="60245" name="Delete an already scheduled cell">
+			<step icon="3">First you need to click inside the cell that you want to delete.</step>
+			<step icon="3">Afterwards, click here to open the Edit menu. Then, click on Delete.<br/><br/>Hint: You can also press the Delete key on the keyboard instead of choosing Delete from the menu.</step>
+		</tutorial>
+		<tutorial id="60249">Cell Contents</tutorial>
+		<tutorial id="60250" name="Select only one activity in a cell which contains several activities">
+			<step icon="12">Simply double click inside the cell. This will select the first activity in the cell. Then, click on the activity which you want to select.<br/><br/>When a single activity is selected, all operations are performed on that activity only. This way, for example, you can delete one of the activities of a Set; or move it to a different timet slot.</step>
+		</tutorial>
+		<tutorial id="60253" name="Define what information is shown in cells">
+			<step icon="11">Click here to open the View menu. Then, click on Settings.</step>
+		</tutorial>
+		<tutorial id="60256" name="See the full contents of a cell">
+			<step icon="12">Simply double click inside the cell, the contents of which you want to see.</step>
+		</tutorial>
+		<tutorial id="60259" name="Show all activities in a cell (instead of only the first two)">
+			<step icon="11">Click here to open the View menu. Then, click on Wrap Cells.</step>
+		</tutorial>
+		<tutorial id="60262">Timetable Browsing</tutorial>
+		<tutorial id="60263" name="Show many timetables on one screen">
+			<step icon="3">Timetable construction is done in the main timetable grid you see on screen. However, you can open additional timetable windows which contain personal weekly timetables of teachers, groups, rooms or equipment. This can be done from many places in the program, as you will now see.</step>
+			<step icon="11">Please hold down the ALT key on the keyboard and click inside some scheduled cell in the timetable (while holding the ALT key).</step>
+			<step icon="3">This is a "Mini-Timetable" window which contains the timetable of the object on which you ALT-clicked.</step>
+			<step icon="11">You can use the ALT key in the Activities window as well. Hold down the ALT key and click on any group's or teacher's name in the list.</step>
+			<step icon="3">You can use the same technique in the "Who is Free?" window, Constraints entry and the Violations window. This comes very much in handy when you need to get a quick reminder of some object's timetable.</step>
+			<step icon="3">If you open many windows, you may want to arrange them neatly on the screen. To do this, click on Tools and then click on Tile Floating.</step>
+		</tutorial>
+		<tutorial id="60271" name="Quickly move from group's to teacher's timetable">
+			<step icon="3">When you are viewing the timetable of some group, you may want to view the timetable of one of the teachers scheduled in that group. You can do this quickly without needing to select the teacher from the list in the navigation bar. And vice versa - you can move quickly from the timetable of a teacher to the timetable of one of the groups in which he/she teaches.</step>
+			<step icon="3">To do this, you first need to click inside the cell in which the teacher (or group) is scheduled. Then, press on ALT[plus]1 (ALT and 1 on the keyboard at the same time). This will show the timetable of the first teacher (or group) scheduled in the cell which you clicked on.</step>
+			<step icon="3">If there are several teachers or groups (a Set for example) scheduled in that cell, you can use ALT[plus]2 to jump to the timetable of the second teacher, ALT[plus]3 to the timetable of the third teacher in the cell and so on.</step>
+		</tutorial>
+		<tutorial id="60276" name="Select cells">
+			<step icon="3">To select a single cell, all you need to do is click inside the cell.</step>
+			<step icon="3">You can select a rectangular range of cells in the following way:<br/><br/>(1) Press with the mouse in the top leftmost cell, and hold the mouse button pressed.<br/><br/>(2) Drag the mouse to the bottom rightmost cell. While dragging, you will notice that the black selection frame will increase to include all the cells over which you are dragging the mouse.<br/><br/>It is important to note that you have to start dragging the mouse in less than 1 second from the time you clicked inside the cell. Otherwise, you will initiate cell drag and drop. It may sound tricky, but it is actually very simple.</step>
+			<step icon="3">You can also select a full row or column at once by clicking on its title.</step>
+		</tutorial>
+		<tutorial id="60281" name="Copy a cell">
+			<step icon="3">First you need to click inside the cell that you want to copy.</step>
+			<step icon="3">Afterwards, click here to open the Edit menu. Then, click on Copy. This will copy the cell's contents to the computer's memory.<br/><br/>If you wish to copy and then delete it, you should click on Cut instead of Copy.</step>
+			<step icon="3">Now you need to click inside the cell into which you want to paste the previously copied cell.</step>
+			<step icon="3">And then, click here again to open the Edit menu and click on Paste. This will schedule the cell.</step>
+		</tutorial>
+		<tutorial id="60287" name="Exchange two cells">
+			<step icon="3">To exchange two cells (move the first instead of the second and the second instead of the first) do the following:<br/><br/>(1) Cut the first cell by selecting it and then choosing Cut from the Edit menu.<br/><br/>(2) Move the second to the cell of the first. In case you don't know how, moving of cells is explained in the Help menu.<br/><br/>(3) Paste the first cell to the position of the second, which will now be empty.</step>
+		</tutorial>
+		<tutorial id="60290">Font and Size</tutorial>
+		<tutorial id="60291" name="Change font and size">
+			<step icon="11">Click here to open the View menu. Then, click on Font.</step>
+		</tutorial>
+		<tutorial id="60294" name="Decrease the font size">
+			<step icon="11">Click here to open the View menu. Then, click on Zoom Out. Clicking on Zoom Out again will restore it to the previous size.</step>
+		</tutorial>
+		<tutorial id="60297">Scale</tutorial>
+		<tutorial id="60298" name="Lay the lessons across the X axis">
+			<step icon="11">Click here to open the View menu. Then, click on Flip Axes.</step>
+		</tutorial>
+		<tutorial id="60301" name="Set same height for all rows">
+			<step icon="11">Click here to open the View menu. Then, click on Settings.</step>
+			<step icon="11">Now click on Axes.</step>
+			<step icon="11">Now make sure there is a check mark in the white square. If there isn't, click in it. Afterwards, click on OK at the bottom.</step>
+		</tutorial>
+		<tutorial id="60306" name="Set same width for all columns">
+			<step icon="11">Click here to open the View menu. Then, click on Settings.</step>
+			<step icon="11">Now click on Axes.</step>
+			<step icon="11">Now make sure there is a check mark in the white square. If there isn't, click in it. Afterwards, click on OK at the bottom.</step>
+		</tutorial>
+		<tutorial id="60311" name="Know how many times each activity is scheduled">
+			<step icon="3">The Scheduled column shows for each activity how many times it is scheduled in the timetable.</step>
+		</tutorial>
+		<tutorial id="60314" name="Hide fully scheduled activities">
+			<step icon="11">Click here to hide activities, the Quantity of which is equal to the Scheduled. Another click will show them.</step>
+		</tutorial>
+		<tutorial id="60317" name="Highlight the activity that is scheduled in the selected cell">
+			<step icon="3">Whenever this button is pressed, selecting a cell in the timetable will highlight here the activities that are scheduled in that cell.</step>
+		</tutorial>
+		<tutorial id="60320" name="Resize this window">
+			<step icon="14">To resize the window you need to drag its top or bottom edge up or down (respectively).<br/><br/>Place the mouse on the edge. The cursor will turn into two vertical arrows facing up and down. Press with the mouse, and while holding the mouse button, move the mouse to the desired point. Then, release the mouse button.</step>
+		</tutorial>
+		<tutorial id="60323" name="Open another 'Mini-Timetable' window">
+			<step icon="11">Click here to open the Tools menu. Then, click on New Docked Timetable.</step>
+		</tutorial>
+		<tutorial id="60326" name="Resize this window">
+			<step icon="14">To resize the window you need to drag its top or bottom edge up or down (respectively).<br/><br/>Place the mouse on the edge. The cursor will turn into two vertical arrows facing up and down. Press with the mouse, and while holding the mouse button, move the mouse to the desired point. Then, release the mouse button.</step>
+		</tutorial>
+		<tutorial id="60329" name="Know which teachers, groups or rooms are free at some lesson">
+			<step icon="3">First you need to choose the object type by clicking on one of the four icons.</step>
+			<step icon="3">Then you need to select the day and lesson in these two lists.<br/><br/>Alternatively, you can simply click inside the desired cell in the main timetable.</step>
+		</tutorial>
+		<tutorial id="60333" name="Check who is free at (all of) several time slots">
+			<step icon="3">You can check which objects are free at several cells. This means that only objects that are free at ALL those cells will be displayed to you.</step>
+			<step icon="11">First, click here.</step>
+			<step icon="11">Now, click here.</step>
+			<step icon="3">Now you need to add to this list all the cells which you want to check.</step>
+			<step icon="3">To add a cell, first select its day and lesson here.</step>
+			<step icon="3">And then click on Add.</step>
+			<step icon="3">Now the time slot appears in this list.</step>
+			<step icon="11">When you are finished adding all the time slots, click here to view the list of free objects.</step>
+		</tutorial>
+		<tutorial id="60343" name="Solve all problems">
+			<step icon="11">Click here.</step>
+		</tutorial>
+		<tutorial id="60346" name="Solve a specific problem">
+			<step icon="3">First you need to click on the problem in the list.</step>
+			<step icon="3">Afterwards, click here.</step>
+		</tutorial>
+		<tutorial id="60350" name="Tell the program to temporarily ignore a problem">
+			<step icon="3">First you need to click on the problem in the list.</step>
+			<step icon="3">Afterwards, click here.<br/><br/>To stop ignoring, click here again.</step>
+		</tutorial>
+		<tutorial id="60354" name="Show all Constraints (istead of only the problematic ones)">
+			<step icon="11">Click here. Another click will hide the non-problematic constraints.</step>
+		</tutorial>
+		<tutorial id="60357" name="Navigate in Constraints">
+			<step icon="3">Use this list to choose the type of the Constraint to enter.</step>
+			<step icon="3">Here you can choose the object type which you want to constrain.</step>
+			<step icon="3">Finally, the Constraint values are entered in this main window in the Min, Max and Desr (Desirable) columns.</step>
+		</tutorial>
+		<tutorial id="60362" name="Enter Constraints">
+			<step icon="13">Constraints are entered in the Min, Max and Desr (Desirable) fields. To enter one of these values, click inside the cell and type the value with the keyboard.</step>
+		</tutorial>
+		<tutorial id="60365" name="Enter many Constraints at once">
+			<step icon="3">This is done by entering one constraint value, and then copying it to other cells. First you need to enter the value of one cell.</step>
+			<step icon="3">After entering the value, click here to open the Edit menu, and click on Copy.</step>
+			<step icon="14">Now you need to select the cells into which you want to paste the value you copied. To select more than one cell, click with the mouse inside the first cell, and while holding the mouse button pressed, drag the mouse to the last cell. Then, release the mouse button.</step>
+			<step icon="3">After selecting the cells, click on Edit and then on Paste.</step>
+		</tutorial>
+		<tutorial id="60371" name="Delete a Constraint I entered">
+			<step icon="3">First you need to click inside the value that you want to delete.</step>
+			<step icon="3">Then choose Delete from the Edit menu.<br/><br/>Alternatively, you can press on Delete on the keyboard.</step>
+		</tutorial>
+		<tutorial id="60375" name="Construct the timetable automatically">
+			<step icon="3">Timetable construction is the process of solving problems.<br/><br/>A Problem is when something is wrong with the timetable.<br/><br/>This could be if some constraint is not fulfilled, or an activity is simply not scheduled the number of times that it is supposed to be.</step>
+			<step icon="3">All the problems that exist in the current timetable are listed here.</step>
+			<step icon="11">To Solve them All, click here.</step>
+		</tutorial>
+		<tutorial id="60380" name="Tell the program not to move or delete some already scheduled activities">
+			<step icon="3">First you need to select the cell in which the activity is scheduled.</step>
+			<step icon="3">Then, open the Edit menu and click on Fixate.</step>
+		</tutorial>
+		<tutorial id="60384" name="Use this window">
+			<step icon="3">Using this window is quite simple.</step>
+			<step icon="3">(1) Select a cell in the timetable in which there is a problem. Examples: an empty cell with a gap; or - a cell in which an activity is scheduled two times a day but you want it to be scheduled not more than once.</step>
+			<step icon="3">(2) Click on the constraint type in this list.<br/><br/>For example: Gaps; or - Lessons per Day.</step>
+			<step icon="3">Then the program will offer you choices to click on. Each sentence contains a "prefer" or "need" option. Click on one of them and the program will try to solve that problem.</step>
+		</tutorial>
+		<tutorial id="60390" name="Show a Report">
+			<step icon="3">First you need to choose the type of the report in this list.</step>
+			<step icon="3">Then you can choose the type of the objects whose report you want to show using these buttons.</step>
+			<step icon="3">Finally, you can choose the objects whose data will be included in the report in this list.</step>
+		</tutorial>
+		<tutorial id="60395" name="Specify whose Report is shown">
+			<step icon="3">You can choose the objects whose data is shown in this list.</step>
+			<step icon="3">To select a single object, simply click on his/her/its name in this list.</step>
+			<step icon="3">To select several objects, click inside the square that appears to the left of the name of each of the objects. This will place a check mark inside that square to let you know that the object's data will be included in the report.</step>
+		</tutorial>
+		<tutorial id="60400" name="Add my own data to the Report">
+			<step icon="3">You have the power to modify the report, in case you need to add anything "by hand".</step>
+			<step icon="11">First, click here to open the Edit menu. Then, click on Add Row.</step>
+			<step icon="3">Now a row has been added to the report. This row has the same structure as all other rows in the report. You can fill it now with your own custom data.</step>
+			<step icon="3">Filling the row with data is very much like filling activities with data in the Database. Click inside the cell that you want to fill, and then press on the grey button with the arrow to show a list of available selections. Then, choose one of the objects in that list.</step>
+		</tutorial>
+		<tutorial id="60406" name="Add a remark to the Report">
+			<step icon="3">You can add a free text row to the report at any place. This allows you to add a remark or note to the report.</step>
+			<step icon="11">First, click here to open the Edit menu. Then, click on Add Text Row.</step>
+			<step icon="13">Now use the keyboard to type the contents of the remark.</step>
+		</tutorial>
+		<tutorial id="60411" name="Specify which rows should be printed">
+			<step icon="3">Each row contains a square at its leftmost column. If you click inside that square, an X will appear in it. This X marks that the row will not be printed, nor included in the sum of the report. Another click will remove the X.</step>
+		</tutorial>
+		<tutorial id="60414" name="Hide a column">
+			<step icon="11">Click here to open the View menu. Then, click on Settings.</step>
+			<step icon="11">The column names appear in this list. To prevent a column from being shown, click inside the square that appears to the left of the column name to remove the check-mark that appears in it.</step>
+		</tutorial>
+		<tutorial id="60418" name="Rename a column">
+			<step icon="11">Click here to open the View menu. Then, click on Settings.</step>
+			<step icon="11">Now click on one of the title names in this column and type the new title using the keyboard.</step>
+		</tutorial>
+		<tutorial id="60422" name="Sort the rows differently">
+			<step icon="11">Click here to open the View menu. Then, click on Settings.</step>
+			<step icon="3">The report allows sorting by 3 columns. First, you need to click on the column that you want to sort by.</step>
+			<step icon="3">Then click on one of these 3 buttons to set that column's sorting level.</step>
+		</tutorial>
+		<tutorial id="63001" name="What is this program good for?">
+			<step icon="3">This program is good for you.<br/><br/>It will save you a lot of time and effort working on your school's timetable. But most important, you will enjoy it.</step>
+			<step icon="3">Lantiv Timetabler is the only program that combines a comfortable and intuitive timetabling environment for Interactive construction, with an intelligent Automatic engine, that can understand exactly how your timetable needs to be constructed.</step>
+		</tutorial>
+		<tutorial id="63005" name="What is the best way to get started?">
+			<step icon="3">The best way to get acquainted with the program is to start a new file and enter your own data, or at least some of it, and experience Lantiv Timetabler's capabilities first hand.</step>
+			<step icon="3">Enter your groups, subjects, teachers, activities etc. in the Database.<br/><br/>Then, enter the Timetable and see how you can interactively schedule activities, rooms, move cells with drag and drop and see how the program helps you overcome conflicting bookings.</step>
+			<step icon="3">Afterwards, test the Automatic construction engine. See how you can enter Constraints which you want the program to consider while constructing the timetable. Get to know the different types of constraints that the program offers.</step>
+			<step icon="3">These are the general steps of studying the program. If you want an even quicker way to start, you can open the Sample School file that is included with the program, which contains sample data that will allow you to test the progam without needing to enter any data of your own.</step>
+			<step icon="3">Remember that every feature of the program is explained in great detail in the Help menu's "Show Me How to" and "Explain to Me" tutorials. The program will teach you step-by-step how to perform every possible task.</step>
+			<step icon="3">Besides that, Lantiv's Support Team is looking forward to helping you by answering any question you may have. Please do not hesitate to contact us at support[at]lantiv.com. Good luck!</step>
+		</tutorial>
+		<tutorial id="63013" name="Where is the User's Guide?">
+			<step icon="3">This is the User's Guide.<br/><br/>Lantiv Timetabler uses an instructive Help system that shows you at each point in the program the topics that are relevant to that point.<br/><br/>For example, if you enter the Timetable, the Help menu will contain tutorials about how to schedule activities, navigate in the timetable and many other.</step>
+		</tutorial>
+		<tutorial id="63016" name="What should I do now?">
+			<step icon="3">Now you should open an existing file or create a new one.</step>
+		</tutorial>
+		<tutorial id="63019" name="What should I do now?">
+			<step icon="11">Now you can view the Database, Constraints, Timetable or Reports for this file.<br/><br/>Database contains data such as subjects, groups, teachers, activities etc.<br/><br/>Timetable is the main view from which interactive and automatic scheduling is done.<br/><br/>To enter one of these modules, click on Start and then choose the module in the menu.</step>
+			<step icon="3">The Help menu now contains new tutorials for the functions in this screen. The Help menu is always updated to reflect your current position in the program.</step>
+		</tutorial>
+		<tutorial id="63023" name="I want this software. How do I buy it?">
+			<step icon="3">Lantiv Timetabler is purchased securely via our web-site www.lantiv.com.<br/><br/>You can pay by a Credit Card or using a Bank Transfer.</step>
+			<step icon="3">As soon as we verify the purchase, you will receive a Client ID and Password for downloading the full software from our web-site.<br/><br/>The verification does not take more than 24 hours.<br/><br/>You could start working with the full Lantiv Timetabler package in a day.</step>
+		</tutorial>
+		<tutorial id="63027" name="Who will help me after I buy it?">
+			<step icon="3">Lantiv's extensive Support Team will help you. Send any question you may have to support[at]lantiv.com. Our support team is constantly ready to answer all your questions. Don't hesitate to ask!</step>
+		</tutorial>
+		<tutorial id="63030" name="Who uses Lantiv Timetabler?">
+			<step icon="3">Everybody uses Lantiv Timetabler.<br/><br/>It is the best timetabling package in the world. We have clients in many countries, of many kinds and sizes. Don't get left behind.</step>
+		</tutorial>
+		<tutorial id="63033" name="What should I do in this page?">
+			<step icon="3">You should enter your school's name and other administrative details.<br/><br/>Also, you should tell the program at which days of the week there are studies in your school.</step>
+		</tutorial>
+		<tutorial id="63036" name="What should I do in this page?">
+			<step icon="3">You should select the days on which teaching takes place in your school.</step>
+		</tutorial>
+		<tutorial id="63039" name="What is the maximal number of days?">
+			<step icon="3">Each file of Lantiv Timetabler can contain up to 7 days.</step>
+		</tutorial>
+		<tutorial id="63042" name="What should I do in this page?">
+			<step icon="3">You should fill the list with your Lesson numbers by adding them one by one.</step>
+		</tutorial>
+		<tutorial id="63045" name="What is a Lesson?">
+			<step icon="3">A Day is divided to even length periods. Each such period is a Lesson, which has a name (or a number). For example: 1, 2, 3 etc.</step>
+		</tutorial>
+		<tutorial id="63048" name="Can I use a time scale (8:00, 9:00, etc.) instead of lessons?">
+			<step icon="3">Yes. Each lesson can be a 15 minute or 30 minute period. The Name of the lesson should be for example: "8:30-9:00".<br/><br/>Also, you should define that "8:00-8:30" and "8:30-9:00" are Sub-Lessons of "8:00-9:00". This will cause the timetable to show "8:00-9:00" divided to two smaller halves.</step>
+		</tutorial>
+		<tutorial id="63051" name="What should I do in this page?">
+			<step icon="3">You should fill the list with your Subject names by adding them one by one.</step>
+		</tutorial>
+		<tutorial id="63054" name="What is a Subject?">
+			<step icon="3">A Subject is the theme of an activity. For example: Math, English, Art.</step>
+		</tutorial>
+		<tutorial id="63057" name="What should I do in this page?">
+			<step icon="3">You should fill the list with your Group names by adding them one by one.</step>
+		</tutorial>
+		<tutorial id="63060" name="What is a Group?">
+			<step icon="3">A Group unites students who study together (in the same activity) at least once during the week. Each Group has a name. For example: Class A, 8th Grade Advanced Math, Sports Boys.</step>
+		</tutorial>
+		<tutorial id="63063" name="What if I have a Group that is split to several Sub-Groups?">
+			<step icon="3">No problem. Each Group can have Sub-Groups.<br/><br/>When you add a new group, you define its "parent" groups (the new group is a sub-group of them).<br/><br/>Generally, group A is sub-group of group B, if the timetable of A is included in the timetable of B (A's scheduled activities should also appear as part of B's scheduled activities).</step>
+		</tutorial>
+		<tutorial id="63066" name="What is the difference between Groups and Subjects?">
+			<step icon="3">For the same subject there could be several groups which all study that subject, but contain different students.<br/><br/>Also, a Subject is usually less descriptive than the Group. For example, the Subject could be Math and the Groups would be Beginners Math 1, Beginners Math 2, Advanced Math 1 and Advanced Math 2.</step>
+		</tutorial>
+		<tutorial id="63069" name="What can I do in this page?">
+			<step icon="3">You can fill the list of Students by adding them one by one.</step>
+		</tutorial>
+		<tutorial id="63072" name="What is a Student?">
+			<step icon="3">A Student is a participant in some Group.</step>
+		</tutorial>
+		<tutorial id="63075" name="I have too many Students. What if I don't enter them?">
+			<step icon="3">You don't have to enter Students.<br/><br/>Entering Students is needed in schools which design a personal timetable for each student separately.</step>
+			<step icon="3">But also, the program uses the students information to know which groups can/cannot be scheduled at the same time. If a student participates in two groups, it means that they cannot be scheduled at the same time.<br/><br/>However, you can tell the program which groups conflict with each other in the Conflicts page later on. It is not necessary to actually enter the student names here.</step>
+		</tutorial>
+		<tutorial id="63079" name="What should I do in this page?">
+			<step icon="3">You should fill the list with your Teacher names by adding them one by one.</step>
+		</tutorial>
+		<tutorial id="63082" name="What is a Teacher?">
+			<step icon="3">A Teacher is the supervisor or a tutor of an activity.</step>
+		</tutorial>
+		<tutorial id="63085" name="Why does each Teacher has a color?">
+			<step icon="3">Every cell in which the teacher is scheduled will be colored with his/her color. This eases the navigation in the timetable because you will learn to recognize the teachers' cells very fast by focusing on the color.</step>
+		</tutorial>
+		<tutorial id="63088" name="What should I do after entering the Teachers?">
+			<step icon="3">You should continue to enter Rooms, Equipment and Activities.</step>
+		</tutorial>
+		<tutorial id="63091" name="What should I do in this page?">
+			<step icon="3">You should fill the list with your Room names by adding them one by one.</step>
+		</tutorial>
+		<tutorial id="63094" name="What is a Room?">
+			<step icon="3">A Room is the physical place where an activity can take place. For example: Room 1, Library, Gym.</step>
+		</tutorial>
+		<tutorial id="63097" name="Rooms are not a problem for me. Do I have to enter them?">
+			<step icon="3">No, you don't.<br/><br/>You can construct a timetable where rooms are not scheduled at all.</step>
+		</tutorial>
+		<tutorial id="63100" name="What should I do in this page?">
+			<step icon="3">You should fill the list with your Equipment names by adding the equipment types one by one.</step>
+		</tutorial>
+		<tutorial id="63103" name="What is Equipment?">
+			<step icon="3">Equipment is the collection of accessories that activities may require.</step>
+		</tutorial>
+		<tutorial id="63106" name="Equipment is not a problem for me. Do I have to enter it?">
+			<step icon="3">No, you don't.<br/><br/>You can construct a timetable where equipment is not scheduled at all.</step>
+		</tutorial>
+		<tutorial id="63109" name="What should I do in this page?">
+			<step icon="3">You should make sure that the Conflicts list is complete.<br/><br/>The list is complete when all existing group Conflicts are specified in it.</step>
+		</tutorial>
+		<tutorial id="63112" name="What is a Conflict?">
+			<step icon="3">A Conflict is a situation in which two groups cannot be scheduled at the same time because they have at least one common student (a student that participates in both groups).</step>
+		</tutorial>
+		<tutorial id="63115" name="How can I make sure that the Conflicts list is complete?">
+			<step icon="3">If you have entered the students of each group in the Students page, you do not need to do anything. The program will calculate which groups conflict by checking whether the groups have common students.</step>
+			<step icon="3">If you have not entered students, you need to tell the program explicitly with which groups each group conflicts (if at all).</step>
+		</tutorial>
+		<tutorial id="63119" name="What should I do in this page?">
+			<step icon="3">You should enter all the activities that need to be scheduled in the timetable.</step>
+		</tutorial>
+		<tutorial id="63122" name="What is an Activity?">
+			<step icon="3">An activity is a matching between three objects: a Group (or several groups), a Subject and a Teacher.<br/><br/>For each activity you can also define the Room(s) in which it can be scheduled and the Equipment that it requires.</step>
+		</tutorial>
+		<tutorial id="63125" name="What is Length?">
+			<step icon="3">The Length of an activity is the number of lessons in which the activity must be scheduled consecutively.<br/><br/>For example, if the length is 2, the activity will always be scheduled in a pair of two lessons one after the other.</step>
+		</tutorial>
+		<tutorial id="63128" name="What is Quantity?">
+			<step icon="3">The Quantity is the total number of lessons that the activity must be scheduled at during the week.<br/><br/>Note that if an activity's length is 2, for example, and it must be scheduled twice during the week, its quantity is 4.</step>
+		</tutorial>
+		<tutorial id="63131" name="What is Scheduled?">
+			<step icon="3">The Scheduled column shows the actual number of cells that the activity occupies in the timetable.</step>
+		</tutorial>
+		<tutorial id="63134">More Than One Object</tutorial>
+		<tutorial id="63135" name="Can one activity have several Groups?">
+			<step icon="3">Yes.<br/><br/>You can select more than one group in the Group column.</step>
+		</tutorial>
+		<tutorial id="63138" name="Can one activity have several Teachers?">
+			<step icon="3">No, but it's not a problem.<br/><br/>You can create several activities - each with its own teacher - and tell the program to schedule them all at the same time. The groups and the subjects of these activities can be the same.</step>
+		</tutorial>
+		<tutorial id="63141" name="Can one activity have several Subjects?">
+			<step icon="3">No, but it's not a problem.<br/><br/>You can create several activities - each with its own subject - and tell the program to schedule them all at the same time. The groups and the teachers of these activities can be the same.</step>
+		</tutorial>
+		<tutorial id="63144" name="Can I tell the program to schedule several activities at the same time?">
+			<step icon="3">Yes.<br/><br/>Several activities that need to be scheduled simultaneously are called a Set. Use the "Show Me How to" menu to learn how to create a Set.</step>
+		</tutorial>
+		<tutorial id="63147">Without an Object</tutorial>
+		<tutorial id="63148" name="Can an activity have no Group?">
+			<step icon="3">Yes.<br/><br/>Simply do not select a group in the Group column.</step>
+		</tutorial>
+		<tutorial id="63151" name="Can an activity have no Teacher?">
+			<step icon="3">Yes.<br/><br/>Simply do not select a teacher in the Teacher column.</step>
+		</tutorial>
+		<tutorial id="63154" name="Can an activity have no Subject?">
+			<step icon="3">No.<br/><br/>An activity must have a subject. Otherwise, you will not be able to schedule it.</step>
+		</tutorial>
+		<tutorial id="63157" name="What can I do in this screen?">
+			<step icon="3">You are now inside the environment in which you will be constructing your timetable.</step>
+			<step icon="3">Currently, you are in Interactive mode.</step>
+		</tutorial>
+		<tutorial id="63161" name="What is the difference between Interactive and Automatic modes?">
+			<step icon="3">In the Interactive mode - you decide when each activity is scheduled.</step>
+			<step icon="3">In the Automatic mode - the program makes all the decisions for you.</step>
+		</tutorial>
+		<tutorial id="63165" name="What are those blinking icons at the bottom?">
+			<step icon="3">The red blinking icon with the diskette is a reminder that some time has passed without your saving the timetable.<br/><br/>If you click on this icon, the timetable will be saved.</step>
+			<step icon="3">The yellow blinking icon with the folder is a reminder that some time has passed without your backing up the file.<br/><br/>If you click on this icon, the timetable will be saved and then the file will be automatically backed up.</step>
+		</tutorial>
+		<tutorial id="63169" name="Why do I need this window?">
+			<step icon="3">The Activities window allows you to do the following:<br/><br/>(1) Schedule activities using Drag and Drop.<br/><br/>(2) Know how many times each activity is scheduled.<br/><br/>(3) Know how many free cells are left for each unscheduled activity.</step>
+		</tutorial>
+		<tutorial id="63172" name="What are those circles at the left of each row?">
+			<step icon="3">These circles contain important information. They tell you how many free (not conflicted) cells are left to schedule each activity. The more full the circle is, the less free cells are left. Free cells are cells in which you can schedule the activity without causing a conflict.</step>
+			<step icon="3">If you are constructing your timetable interactively, you will find this information very helpful. It allows you to know, more or less, the priority in which you should schedule the activities, because it is smart to schedule first those activities that have only a few possible time slots in which they can be scheduled.</step>
+			<step icon="3">Whenever this button is pressed, the program will automatically sort the activities according to the number of free cells. At the top of the list will appear the more "critical" activities - those that have less available time slots for scheduling.</step>
+		</tutorial>
+		<tutorial id="63177" name="Why do I need this window?">
+			<step icon="3">This window shows a personal timetable of an object. Since timetabling is a task that involves many variables, it is useful to have another timetable displayed in front of you.</step>
+		</tutorial>
+		<tutorial id="63180" name="What does the first button at the top of the window do?">
+			<step icon="3">Whenever this button is pressed, selecting a cell in the timetable will automatically show here the timetable of the object scheduled in that cell. By default, this button is pressed.</step>
+		</tutorial>
+		<tutorial id="63183" name="Why do I need this window?">
+			<step icon="3">Whenever you select a cell in the main timetable in which some activity is scheduled, this window updates to reflect the states of the cells relative to that activity.<br/><br/>Cells in which the activity is already scheduled are colored in Blue.<br/><br/>Cells in which the activity can be scheduled without causing a conflict are colored in Green.<br/><br/>Cells in which the activity cannot be scheduled due to a conflict are colored in Yellow.<br/><br/>Cells in which the activity cannot be scheduled due to a block are colored in Red.</step>
+		</tutorial>
+		<tutorial id="63186" name="What are those letters inside the yellow and red cells?">
+			<step icon="3">The letters tell you who causes the conflict (in a yellow cell) or who is blocked (in a red cell):<br/><br/>T = Teacher<br/>G = Group<br/>R = Room<br/>E = Equipment</step>
+		</tutorial>
+		<tutorial id="63189" name="Why do I need this window?">
+			<step icon="3">You may need to know which teachers, groups, rooms or equipment types are free (not scheduled nor blocked) at a specific lesson. Instead of browsing through all the timetables and checking manually, you can use this window to quickly find that out.</step>
+		</tutorial>
+		<tutorial id="63192" name="What does the blue number near the object's name mean?">
+			<step icon="3">The blue number specifies the number of Gaps that will be created in the object's timetable if you schedule him/her/it at the selected time slot.<br/><br/>For example, suppose a teacher is scheduled at lessons 3,4,5 and you are checking which teachers are free at lesson 7. That teacher is free, but if you schedule him/her on the 7th lesson, a gap will be created in lesson 6. Therefore, ([plus]1) will be shown next to the teacher's name in the list.</step>
+		</tutorial>
+		<tutorial id="63195" name="What should I do in this screen?">
+			<step icon="3">You should enter your school's Constraints.</step>
+		</tutorial>
+		<tutorial id="63198" name="Why should I enter Constraints?">
+			<step icon="3">If you are planning to use the Automatic capabilities of the program, and you do not enter the Constraints, the program will not know your demands from the timetable.<br/><br/>For example, it may be natural to you that Math cannot be scheduled more than twice a day, but the program will not know that until you tell it so.</step>
+			<step icon="3">Entering Constraints is quite simple. You do not need to enter all possible constraint types; only the ones that are relevant to you.</step>
+		</tutorial>
+		<tutorial id="63202" name="Do I have to enter all Constraints before automatic construction?">
+			<step icon="3">No. You can enter your constraints incrementally: enter some constraints (the more important ones, for example) and construct the timetable.<br/><br/>Then, add other less important constraints.<br/><br/>When you enter the Automatic mode, the program will immediately recognize the new problems in the timetable according to the new constraints you entered and you will be able to tell it to Solve those problems (to satisfy the new constraints).<br/><br/>You can repeat this process as many times as you want.</step>
+		</tutorial>
+		<tutorial id="63205" name="Will all my Constraints will be fulfilled?">
+			<step icon="3">It is impossible to know. That depends on the data you entered and the constraints you entered. We can assure you that Lantiv Timetabler uses a very sophisticated algorithm for automatic construction, but it is impossible to check all possible timetables because there are too many options.</step>
+		</tutorial>
+		<tutorial id="63208">Constraint Types</tutorial>
+		<tutorial id="63209" name="What is a Gap?">
+			<step icon="3">A Gap is an empty cell, before and after which there are full cells (in that day).<br/><br/>A Gap may be in the timetable of a teacher, group, student, room or equipment type.<br/><br/>For example, if a teacher teaches on lessons 1, 2, and 4, he/she has a Gap on lesson 3.</step>
+		</tutorial>
+		<tutorial id="63212" name="What is a Late Start?">
+			<step icon="3">A Late Start is a series of one or more empty cells, after which there are full cells (in that day).<br/><br/>A Late Start may be in the timetable of a teacher, group, student, room or equipment type.<br/><br/>For example, if a group begins to study on Monday on lesson 2 (and not on lesson 1), it has a Late Start on Monday.</step>
+		</tutorial>
+		<tutorial id="63215" name="What is Adjacency?">
+			<step icon="3">Adjacency is a number of consecutive cells.<br/><br/>Adjacency can be defined for a teacher's, group's, student's, room's or equipment's activities; and also for a specific subject or activity.<br/><br/>For example, if Math is scheduled in two consecutive cells, its adjacency is 2.</step>
+		</tutorial>
+		<tutorial id="63218" name="What are Lessons per Day?">
+			<step icon="3">Lessons per Day is the number of scheduled activities on that day.<br/><br/>It can be defined for a teacher, group, student, room, equipment, subject and a specific activity.<br/><br/>For example, you may define that Math can be scheduled no more than 2 times per day.</step>
+		</tutorial>
+		<tutorial id="63221" name="What is Lesson Range?">
+			<step icon="3">Lesson Range is the minimal and maximal lesson at which scheduling is allowed.<br/><br/>It applies for a teacher's, group's, student's, room's, equipment's and subject's activities; and also for a specific activity.</step>
+			<step icon="3">Note that the values of Lesson Range are the lesson numbers. For example, if you don't want Math to be scheduled on a lesson later than 4, write "4" in the Max field. You could also write "1-4" in the Desirable field (the Max field has greater priority).</step>
+			<step icon="3">Even if your lessons are numbered differently, or you have a lunch break in the middle, the numbering starts from 1. For example, if you have lunch after lesson 4, and then comes lesson 5, lesson 5 is treated as the number "6" in the constraint value, because lesson 5 is actually the 6th period in the list.</step>
+		</tutorial>
+		<tutorial id="63226" name="What are Gaps per Week?">
+			<step icon="3">Gaps per Week is the quantity of Gaps in a week.</step>
+		</tutorial>
+		<tutorial id="63229" name="What are Gaps per Day?">
+			<step icon="3">Gaps per Day is the quantity of Gaps in one day.</step>
+		</tutorial>
+		<tutorial id="63232" name="What are Consecutive Gaps?">
+			<step icon="3">Consecutive Gaps is the number of gaps one after the other.<br/><br/>For example, if lessons 1 and 4 are scheduled, there are two consecutive gaps on lessons 2 and 3.</step>
+		</tutorial>
+		<tutorial id="63235" name="What are Late Starts per Week?">
+			<step icon="3">Late Starts per Week is the number of Late Starts during the week.</step>
+		</tutorial>
+		<tutorial id="63238" name="What is Late Start Size?">
+			<step icon="3">Late Start Size is the quantity of free cells in the late start.<br/><br/>For example, if a group begins to study on lesson 3 on Monday, the size of the late start on Monday is 2 (lessons 1 and 2).</step>
+		</tutorial>
+		<tutorial id="63241" name="What is Min?">
+			<step icon="3">Min is the smallest allowed value of the constraint.</step>
+		</tutorial>
+		<tutorial id="63244" name="What is Max?">
+			<step icon="3">Max is the maximal value of the constraint.</step>
+		</tutorial>
+		<tutorial id="63247" name="What is Desr?">
+			<step icon="3">Desr is the desirable value of the constraint. The desirable value should be within the Min-Max range:<br/>Min <= Desr <= Max.</step>
+		</tutorial>
+		<tutorial id="63253" name="What is a Validity Check?">
+			<step icon="3">A Validity Check is a quick process in which the program makes sure that the data and constraints you entered are OK and do not contain inconsistencies.<br/><br/>This check is required before entering the Automatic mode.</step>
+		</tutorial>
+		<tutorial id="63256" name="What is an Inconsistency?">
+			<step icon="3">An Inconsistency is some kind of mismatch in the data or the timetable. There are several types of inconsistencies that the program checks for.</step>
+		</tutorial>
+		<tutorial id="63259" name="What should I do now?">
+			<step icon="3">You should either continue to Automatic mode or return to the Interactive mode.<br/><br/>If you continue to Automatic mode despite the inconsistencies, the program may delete some of the cells in the timetable. But don't worry, it will schedule them later automatically.</step>
+		</tutorial>
+		<tutorial id="63262">Inconsistency Types</tutorial>
+		<tutorial id="63263" name="Quantity is larger than the number of available cells">
+			<step icon="3">Quantity is larger than the number of available cells.<br/><br/>The number of unblocked cells in which an object's activities can be scheduled is less than the sum of quantities of that object's activities. You need to unblock cells or delete some of the activities.</step>
+		</tutorial>
+		<tutorial id="63266" name="Room and/or Equipment not scheduled as required">
+			<step icon="3">Room and/or Equipment not scheduled as required.<br/><br/>The activity needs to be scheduled in one of its optional rooms and with the equipment defined for it. However, either it is not scheduled in any room or it is scheduled without equipment.<br/><br/>This could happen if you entered the rooms or the equipment for the activity after the activity had already been scheduled in the timetable.<br/><br/>The program will delete the activity and reschedule it automatically later.</step>
+		</tutorial>
+		<tutorial id="63269" name="Room too small for activity">
+			<step icon="3">Room too small for activity.<br/><br/>One of the rooms defined for the activity is too small to contain the students involved in the group(s) of the activity. The activity will not be scheduled into that room.</step>
+		</tutorial>
+		<tutorial id="63272" name="Quantity not divisible by Length">
+			<step icon="3">Quantity not divisible by Length.<br/><br/>The number of times an activity is scheduled in the timetable is "Quantity:Length", each time in "Length" consecutive cells.<br/><br/>For example, if the activity's length is 2, and the quantity is 8, it will be scheduled 4 times in pairs of 2 cells. However, if the activity's quantity were 7, for example, it could be scheduled 3 times in pairs of 2, and one time in only one lesson. This is an illegal situtation. The program will schedule such an activity only 3 times, and leave 1 cell unscheduled.</step>
+		</tutorial>
+		<tutorial id="63275" name="Activity not scheduled according to its Length definition">
+			<step icon="3">Activity not scheduled according to its Length definition.<br/><br/>There is a situation when an activity is not scheduled in the timetable in "Length" consecutive cells.<br/><br/>For example, you defined that an activity's length is 2, and somewhere in the timetable it is scheduled in 3 consecutive cells or in 1. This is an inconsistency. The program will delete the activity from that time slot, and reschedule it correctly automatically according to its Length definition.</step>
+		</tutorial>
+		<tutorial id="63278" name="Activity conflicts with another activity">
+			<step icon="3">Activity conflicts with another activity.<br/><br/>There is a situation when two activities that conflict with each other are scheduled at the same time. The first activity will be deleted and rescheduled automatically by the program so that it does not conflict with any other activity.</step>
+		</tutorial>
+		<tutorial id="63281" name="Quantity in a Set is not the same for all activities">
+			<step icon="3">Quantity in a Set is not the same for all activities.<br/><br/>The Quantity values for all activities in a Set must be the same. If they aren't, only the minimal shared quantity will be scheduled.</step>
+		</tutorial>
+		<tutorial id="63284" name="Length in a Set is not the same for all activities">
+			<step icon="3">Length in a Set is not the same for all activities.<br/><br/>The Length values for all activities in a Set must be the same. If they aren't, only the minimal shared length will be scheduled. If one of the activities has a blank Length, then the Length of the Set will be defined as 1.</step>
+		</tutorial>
+		<tutorial id="63287" name="What should I do in this Automatic mode?">
+			<step icon="3">You should supervise the automatic construction of the timetable.</step>
+		</tutorial>
+		<tutorial id="63290" name="How much time will it take to construct the timetable?">
+			<step icon="3">That depends on the size of your timetable and the speed of your computer.<br/><br/>It usually does not take more than 30 minutes.</step>
+		</tutorial>
+		<tutorial id="63293" name="Why can't I move or delete cells in Automatic mode?">
+			<step icon="3">Because in the Automatic mode the program does that and not you. If you want to move or delete cells, go to Interactive mode.</step>
+		</tutorial>
+		<tutorial id="63298" name="What does this window show?">
+			<step icon="3">This window shows all the violations (problems) in the timetable.</step>
+		</tutorial>
+		<tutorial id="63301" name="What do these red icons at the left mean?">
+			<step icon="3">If the violation is -3 or less, the red icon will contain three white stripes at its left side; if the violation is -2 there will be two white stripes; for -1 there will be one white stripe. For violations [plus]1, [plus]2, [plus]3 it will be the same, symetrically at the right side of the red square.</step>
+		</tutorial>
+		<tutorial id="63304" name="What is a Violation?">
+			<step icon="3">A Violation is a sitution in which some constraint you entered is not fulfilled in the timetable. A violation can be above the required value (will appear with a plus sign) or below (will appear with a minus sign).</step>
+			<step icon="3">For example, if an activity must be scheduled 3 times in the timetable, and it is scheduled only once, there is a violation of -2.<br/><br/>Another example: if you defined that Math must be scheduled no more than 1 lesson per day, and it is scheduled twice on some day, there is a violation of [plus]1.</step>
+		</tutorial>
+		<tutorial id="63308" name="What is the difference between 'Solve All' and 'Solve'?">
+			<step icon="3">"Solve All" solves all the problems that appear in the list.</step>
+			<step icon="3">"Solve" allows you to select a specific problem and tell the program to only solve it and then stop.</step>
+		</tutorial>
+		<tutorial id="63312" name="Why do I need this window?">
+			<step icon="3">The preferences window has the following two advantages:<br/><br/>(1) It is comfortable - you can set constraints from inside the timetable in 2 mouse clicks.<br/><br/>(2) It allows to set more specific constraints than the Constraints entry allows.</step>
+		</tutorial>
+		<tutorial id="63315" name="What is the difference between 'Need' and 'Prefer'?">
+			<step icon="3">It's the same as the difference between Min-Max and Desirable. "Need" sets the value you request in either the Min or the Max fields, and "Prefer" sets the new value you request in the Desirable field of constraint.</step>
+		</tutorial>
+		<tutorial id="63318" name="Does the program remember the choices I make in this window?">
+			<step icon="3">Yes. All your choices here are equivalent to setting the constraints from inside Constraints entry. In fact, if you go to Constraints entry after making some choice here, you will see that the choice you made is reflected in the Constraints entry as well.</step>
+			<step icon="3">For example, if you click here on "I need that the quantity of gaps be decreased to 0.", then in Constraints entry a "0" will be defined in the Max field for that object.</step>
+			<step icon="3">Also, if you click here on a more specific constraint, for example: "I need that the quantity of gaps on Monday be decreased to 0.", then in Constraints entry "Monday" will be added to the list, and on a separate line for Monday will appear "0" in the Max field.</step>
+		</tutorial>
+		<tutorial id="63323" name="What can I do in this screen?">
+			<step icon="3">You can show many kinds of Reports.</step>
+		</tutorial>
+		<tutorial id="63326" name="Why do I need Reports?">
+			<step icon="3">There is a lot of information that can be obtained from your timetable. Reports show this information in a form of an organized table or graph.</step>
+		</tutorial>
+		<tutorial id="63329">Report Types</tutorial>
+		<tutorial id="63330" name="What does 'Activities' show?">
+			<step icon="3">Activities Report<br/><br/>Shows the activities you entered in the Database.</step>
+		</tutorial>
+		<tutorial id="63333" name="What does 'Scheduled Activities' show?">
+			<step icon="3">Scheduled Activities Report<br/><br/>Shows for each time slot the activities scheduled at that time slot.</step>
+		</tutorial>
+		<tutorial id="63336" name="What does 'Conflicts' show?">
+			<step icon="3">Conflicts Report<br/><br/>If your timetable contains activities that conflict with each other, yet scheduled at the same time, this report will show all such cases.</step>
+		</tutorial>
+		<tutorial id="63339" name="What does 'Free' show?">
+			<step icon="3">Free Report<br/><br/>Shows all the free objects at a specific time slot. Just like the "Who is Free?" window in Interactive mode.</step>
+		</tutorial>
+		<tutorial id="63342" name="What does 'Blocked' show?">
+			<step icon="3">Blocked Report<br/><br/>Shows all the blocked objects at a specific time slot. Just like the "Who is Free?" window in Interactive mode.</step>
+		</tutorial>
+		<tutorial id="63345" name="What does 'Objects' show?">
+			<step icon="3">Object Report<br/><br/>Simply shows a list of objects from the Database (groups, teachers, subjects etc.).</step>
+		</tutorial>
+		<tutorial id="63348" name="What does 'Supplemental Pay' show?">
+			<step icon="3">Supplemental Pay Report<br/><br/>Allows you to enter and show additional non-curricular activities for teachers. This may be needed to correctly calculate teachers' salaries.</step>
+		</tutorial>
+		<tutorial id="63351" name="What does 'Supplemental Totals' show?">
+			<step icon="3">Supplemental Totals Report<br/><br/>Shows the sum of curricular and non-curricular (supplemental) activities for each teacher.</step>
+		</tutorial>
+	</tutorials>
+</lantiv-language>
