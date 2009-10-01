@@ -113,51 +113,51 @@
 		<phrase id="2507">Atividades</phrase>
 		<phrase id="2508">No. de Estudantes</phrase>
 		<phrase id="2509">Cancelado</phrase>
-		<phrase id="2510">To run Lantiv Timetabler, please supply an Activation Code.</phrase>
-		<phrase id="2511">To perform this operation, please supply an Activation Code.</phrase>
-		<phrase id="2512">Activities Window</phrase>
-		<phrase id="2513">Tools</phrase>
-		<phrase id="2514">Trial Version</phrase>
-		<phrase id="2515">Who is Free?</phrase>
-		<phrase id="2516">When is Free?</phrase>
+		<phrase id="2510">Para rodar o Lantiv Timetabler, por favor fornecer um código de ativação.</phrase>
+		<phrase id="2511">Para executar esta operação, por favor fornecer um código de ativação..</phrase>
+		<phrase id="2512">Janela de atividades</phrase>
+		<phrase id="2513">Ferramentas</phrase>
+		<phrase id="2514">Versão teste</phrase>
+		<phrase id="2515">Quem está livre?</phrase>
+		<phrase id="2516">Quando esta livre?</phrase>
 		<phrase id="2519">Alice Smith</phrase>
 		<phrase id="2520">A-1</phrase>
-		<phrase id="2521">Computers</phrase>
+		<phrase id="2521">Computadores</phrase>
 		<phrase id="2522">Lab</phrase>
 		<phrase id="2523">Bob Smith</phrase>
 		<phrase id="2525">A-1, A-2</phrase>
-		<phrase id="2527">Literature</phrase>
-		<phrase id="2530">Library</phrase>
+		<phrase id="2527">Literatura</phrase>
+		<phrase id="2530">Biblioteca</phrase>
 		<phrase id="2531">TV</phrase>
 		<phrase id="2532">Video</phrase>
-		<phrase id="2570">Blocked</phrase>
-		<phrase id="2571">Scheduled</phrase>
-		<phrase id="2572">Free</phrase>
-		<phrase id="2573">Only groups taught by:</phrase>
-		<phrase id="2574">Only teachers who teach in:</phrase>
-		<phrase id="2575" icon="Icons\Groups.png:0">Group</phrase>
-		<phrase id="2576" icon="Icons\Resources.png:12">Subject</phrase>
-		<phrase id="2577" icon="Icons\Individuals.png:56">Teacher</phrase>
-		<phrase id="2578">Quantity</phrase>
-		<phrase id="2579">Scheduled</phrase>
-		<phrase id="2580">Length</phrase>
-		<phrase id="2581" icon="Icons\Buildings.png:13">Room</phrase>
-		<phrase id="2616">Yes</phrase>
-		<phrase id="2617">No</phrase>
-		<phrase id="2618">Classification</phrase>
-		<phrase id="2619">Meetings</phrase>
-		<phrase id="2620">Object</phrase>
-		<phrase id="2621">All Teachers</phrase>
-		<phrase id="2622">All Groups</phrase>
-		<phrase id="2623">All Subjects</phrase>
-		<phrase id="2624">All Rooms</phrase>
-		<phrase id="2625">Cancellation</phrase>
-		<phrase id="2626">Saving</phrase>
-		<phrase id="2627">Restore</phrase>
-		<phrase id="2628">All Students</phrase>
-		<phrase id="2664">If you wish to make any changes in the Database, you must save the schedule first. Save?</phrase>
-		<phrase id="2665">Database</phrase>
-		<phrase id="2674">Lantiv Timetabler Schedule Files (*.schedx)|*.schedx|Lantiv Timetabler 6.1 Schedule Files (*.xml)|*.xml|Lantiv Timetabler 6.0 Schedule Files (*.tiv)|*.tiv||</phrase>
+		<phrase id="2570">Bloquado</phrase>
+		<phrase id="2571">Agendado</phrase>
+		<phrase id="2572">Livre</phrase>
+		<phrase id="2573">Somente grupos lecionados por :</phrase>
+		<phrase id="2574">Somente professores que ensinam :</phrase>
+		<phrase id="2575" icon="Icons\Groups.png:0">Grupo</phrase>
+		<phrase id="2576" icon="Icons\Resources.png:12">Matéria</phrase>
+		<phrase id="2577" icon="Icons\Individuals.png:56">Professor</phrase>
+		<phrase id="2578">Quantidade</phrase>
+		<phrase id="2579">Agendado</phrase>
+		<phrase id="2580">Duração</phrase>
+		<phrase id="2581" icon="Icons\Buildings.png:13">Sala</phrase>
+		<phrase id="2616">Sim</phrase>
+		<phrase id="2617">Não</phrase>
+		<phrase id="2618">Classificação</phrase>
+		<phrase id="2619">Reuniões</phrase>
+		<phrase id="2620">Objetos</phrase>
+		<phrase id="2621">Todos os professores</phrase>
+		<phrase id="2622">Todos Grupos</phrase>
+		<phrase id="2623">Todas Matérias</phrase>
+		<phrase id="2624">Todas as salas</phrase>
+		<phrase id="2625">Cancelamento</phrase>
+		<phrase id="2626">Gravando</phrase>
+		<phrase id="2627">Restaurar</phrase>
+		<phrase id="2628">Todos os estudantes</phrase>
+		<phrase id="2664">Se vc deseja fazer alterações na base de dados, primeiro precisa gravar a grade de horários. Gravar?</phrase>
+		<phrase id="2665">Base de dados</phrase>
+		<phrase id="2674">Arquivos Lantiv Timetabler Schedule (*.schedx)|*.schedx|Arquivos Lantiv Timetabler 6.1 Schedule (*.xml)|*.xml|Arquivos Lantiv Timetabler 6.0 Schedule (*.tiv)|*.tiv||</phrase>
 		<phrase id="2675">.schedx</phrase>
 		<phrase id="2676">Please choose the file you wish to open and then press on "Open". The file's extension should be ".schedx".</phrase>
 		<phrase id="2677">Please choose the folder and then type the new file's name in the File Name field. Finally, press on "Save".</phrase>
