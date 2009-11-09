@@ -209,86 +209,86 @@
 		<phrase id="2888">Copyright Â© 2000 Lantiv. Todos os direitos reservados.</phrase>
 		<phrase id="2964">Refazer</phrase>
 		<phrase id="2965">Desfazer</phrase>
-		<phrase id="2976">File successfully compressed.</phrase>
-		<phrase id="2977">Compress</phrase>
-		<phrase id="2979">Repair</phrase>
-		<phrase id="2980">File successfully repaired.</phrase>
-		<phrase id="2981">Warning</phrase>
-		<phrase id="3010">After this operation all schedule cells will be deleted. Continue?</phrase>
-		<phrase id="3012">This operation cannot be later undone. Continue?</phrase>
-		<phrase id="3014">After this operation all schedule blocks will be deleted. Continue?</phrase>
+		<phrase id="2976">Arquivo compactado com sucesso.</phrase>
+		<phrase id="2977">Compactar</phrase>
+		<phrase id="2979">Reparar</phrase>
+		<phrase id="2980">Arquivo reparado com sucesso.</phrase>
+		<phrase id="2981">Atenção</phrase>
+		<phrase id="3010">Após esta operação todas as células do agendamento serão removidas. Continuar?</phrase>
+		<phrase id="3012">Esta operação não pode ser desfeita. Continuar?</phrase>
+		<phrase id="3014">Após esta operação, todos os blocos agendados serão removidos. Continuar?</phrase>
 		<phrase id="3253">Reason collection</phrase>
-		<phrase id="3254">Please first choose the object in the list.</phrase>
-		<phrase id="3255">Update</phrase>
-		<phrase id="3257" icon="Icons\Functions.png:28">Delete</phrase>
-		<phrase id="3260">Now automatically backing up to:</phrase>
-		<phrase id="3261">Access to the destination path has been denied. Backup was not done.</phrase>
-		<phrase id="3262">Automatic Backup</phrase>
+		<phrase id="3254">Escolha primeiro um objeto da lista.</phrase>
+		<phrase id="3255">Atualizar</phrase>
+		<phrase id="3257" icon="Icons\Functions.png:28">Remover</phrase>
+		<phrase id="3260">Fazendo backup até :</phrase>
+		<phrase id="3261">O acesso ao caminho de destino foi negado. O backup não foi feito.</phrase>
+		<phrase id="3262">Backup automático</phrase>
 		<phrase id="3268">The Trial Version of Lantiv Timetabler does not allow you to save the schedule.</phrase>
 		<phrase id="3269">The Trial Version of Lantiv Timetabler does not allow you to print the schedule.</phrase>
-		<phrase id="3291">Edit</phrase>
-		<phrase id="3292">Sets as one unit</phrase>
-		<phrase id="3294">Do not delete fixated cells</phrase>
-		<phrase id="3295">Additional Cells</phrase>
+		<phrase id="3291">Editar</phrase>
+		<phrase id="3292">Confirgurar como uma unidade</phrase>
+		<phrase id="3294">Não remover células fixas</phrase>
+		<phrase id="3295">Células adicionais</phrase>
 		<phrase id="3300">List</phrase>
 		<phrase id="3304">T</phrase>
 		<phrase id="3305">G</phrase>
 		<phrase id="3306">R</phrase>
 		<phrase id="3307">E</phrase>
-		<phrase id="3311">Fixate</phrase>
-		<phrase id="3312">Unfixate</phrase>
+		<phrase id="3311">Fixar</phrase>
+		<phrase id="3312">Liberar</phrase>
 		<phrase id="3315">Changes Window</phrase>
-		<phrase id="3316">Reason</phrase>
-		<phrase id="3318">Open</phrase>
-		<phrase id="3319">Schedule an Exam</phrase>
-		<phrase id="3320">Exam</phrase>
-		<phrase id="3322">File successfully backed up.</phrase>
-		<phrase id="3323">Network</phrase>
-		<phrase id="3324">Printer</phrase>
-		<phrase id="3325">Options</phrase>
-		<phrase id="3326">Schedules</phrase>
-		<phrase id="3327">Preview</phrase>
-		<phrase id="3333">Deleting the object(s) will delete all the relevant data in the schedule. Do you wish to continue?</phrase>
-		<phrase id="3337">An object by this name already appears in the list.</phrase>
-		<phrase id="3342">Missing</phrase>
-		<phrase id="3347">Titles</phrase>
-		<phrase id="3348">Header</phrase>
-		<phrase id="3349">Footer</phrase>
-		<phrase id="3350">Weekly Schedule</phrase>
-		<phrase id="3351">Rendering page</phrase>
-		<phrase id="3352">Pages horizontally</phrase>
-		<phrase id="3353">Pages vertically</phrase>
-		<phrase id="3354">Tables per page</phrase>
-		<phrase id="3355">Start Time</phrase>
-		<phrase id="3356">End Time</phrase>
+		<phrase id="3316">Motivo</phrase>
+		<phrase id="3318">Abrir</phrase>
+		<phrase id="3319">Agendar uma prova</phrase>
+		<phrase id="3320">Prova</phrase>
+		<phrase id="3322">Backup realizado com sucesso.</phrase>
+		<phrase id="3323">Rede</phrase>
+		<phrase id="3324">Impressora</phrase>
+		<phrase id="3325">Opções</phrase>
+		<phrase id="3326">Agendas</phrase>
+		<phrase id="3327">Visualizar</phrase>
+		<phrase id="3333">Excluir o objeto(s) irá remover toda a informação relevante na agenda. Continuar ?</phrase>
+		<phrase id="3337">Já existe um objeto com este nome na lista.</phrase>
+		<phrase id="3342">Faltando</phrase>
+		<phrase id="3347">Títulos</phrase>
+		<phrase id="3348">Cabeçalho</phrase>
+		<phrase id="3349">Rodapé</phrase>
+		<phrase id="3350">Agenda semanal</phrase>
+		<phrase id="3351">Desenhando página</phrase>
+		<phrase id="3352">Página horizontais</phrase>
+		<phrase id="3353">Páginas verificais</phrase>
+		<phrase id="3354">Tabelas por página</phrase>
+		<phrase id="3355">Hora de início</phrase>
+		<phrase id="3356">Hora de fim</phrase>
 		<phrase id="3357">Scheduling</phrase>
-		<phrase id="3358">Time Change</phrase>
-		<phrase id="3359">Move</phrase>
-		<phrase id="3360" icon="Icon\Functions.png:12">Paste</phrase>
-		<phrase id="3361">Cut</phrase>
-		<phrase id="3362">Block</phrase>
-		<phrase id="3363">Unblock</phrase>
-		<phrase id="3364">Blocked</phrase>
-		<phrase id="3365">Canceled</phrase>
+		<phrase id="3358">Mudança de hora</phrase>
+		<phrase id="3359">Mover</phrase>
+		<phrase id="3360" icon="Icon\Functions.png:12">Colar</phrase>
+		<phrase id="3361">Recortar</phrase>
+		<phrase id="3362">Bloquear</phrase>
+		<phrase id="3363">Desbloquear</phrase>
+		<phrase id="3364">Bloqueado</phrase>
+		<phrase id="3365">Cancelado</phrase>
 		<phrase id="3366">Group 1</phrase>
 		<phrase id="3367">Group 2</phrase>
-		<phrase id="3368">Common Students</phrase>
-		<phrase id="3369">School Name</phrase>
-		<phrase id="3370">School Number</phrase>
-		<phrase id="3371">Principal Name</phrase>
-		<phrase id="3372">Other</phrase>
-		<phrase id="3373">Telephone</phrase>
+		<phrase id="3368">Estudantes comuns</phrase>
+		<phrase id="3369">Nome da escola</phrase>
+		<phrase id="3370">Número da escola</phrase>
+		<phrase id="3371">Diretori</phrase>
+		<phrase id="3372">Outro</phrase>
+		<phrase id="3373">Telefone</phrase>
 		<phrase id="3374">Fax</phrase>
-		<phrase id="3375">Address</phrase>
-		<phrase id="3376">Teaching Days</phrase>
+		<phrase id="3375">Endereço</phrase>
+		<phrase id="3376">Dias de aula</phrase>
 		<phrase id="3377">Remarks</phrase>
 		<phrase id="3378">The Activation Code can be obtained from Lantiv by:</phrase>
 		<phrase id="3379">activate@lantiv.com</phrase>
 		<phrase id="3380">Program Code</phrase>
-		<phrase id="3381">Please supply the reason for this operation here:</phrase>
-		<phrase id="3382">Are you sure?</phrase>
-		<phrase id="3383">Please supply the subject, the room (if relevant) and the reason for this activity.</phrase>
-		<phrase id="3384">New Password</phrase>
+		<phrase id="3381">Por favor, fornecer o motivo desta operação aqui:</phrase>
+		<phrase id="3382">Tem certeza?</phrase>
+		<phrase id="3383">Por favor fornecer o assunto, a sala ( se for relevante ) e o motivo desta ativadade.</phrase>
+		<phrase id="3384">Nova senha</phrase>
 		<phrase id="3385">Please make sure you typed the password correctly, and write it down in a safe place if needed.</phrase>
 		<phrase id="3386">Cell with a single activity</phrase>
 		<phrase id="3387">Cell with more than one activity</phrase>
@@ -814,26 +814,26 @@
 		<phrase id="3944">Flip Axes</phrase>
 		<phrase id="3945">|Settings...;Various view settings</phrase>
 		<phrase id="3946">Font..;Change the font of the report</phrase>
-		<phrase id="3947">Activities Window</phrase>
+		<phrase id="3947">Janela de atividades</phrase>
 		<phrase id="3948">Violations Window</phrase>
-		<phrase id="3949">Who is Free? Window</phrase>
-		<phrase id="3950">Where is Free? Window</phrase>
+		<phrase id="3949">Janela Quem está livre?</phrase>
+		<phrase id="3950">Janela Onde está livre?</phrase>
 		<phrase id="3951">New Docked Schedule</phrase>
 		<phrase id="3952">New Floating Schedule</phrase>
 		<phrase id="3953">Tile Floating</phrase>
 		<phrase id="3954">Close All Floating</phrase>
 		<phrase id="3955">Send a Question to: support@lantiv.com</phrase>
-		<phrase id="3956">|Online Forum</phrase>
-		<phrase id="3957">Online Client Login</phrase>
-		<phrase id="3958">|Show Me How to</phrase>
-		<phrase id="3959">|Explain to Me</phrase>
-		<phrase id="3960" icon="Icons\Functions.png:74">Start</phrase>
-		<phrase id="3961" icon="Icons\Functions.png:37">File</phrase>
-		<phrase id="3962" icon="Icons\Documents.png:2">Edit</phrase>
-		<phrase id="3963" icon="Icons\Functions.png:21">View</phrase>
-		<phrase id="3964" icon="Icons\Functions.png:15">Tools</phrase>
-		<phrase id="3965" icon="Icons\Functions.png:19">Help</phrase>
-		<phrase id="3966" icon="Icons\Functions.png:75">Finish</phrase>
+		<phrase id="3956">|Forum Online</phrase>
+		<phrase id="3957">Login Online do Cliente</phrase>
+		<phrase id="3958">|Mostrar como</phrase>
+		<phrase id="3959">|Explicar</phrase>
+		<phrase id="3960" icon="Icons\Functions.png:74">Iniciar</phrase>
+		<phrase id="3961" icon="Icons\Functions.png:37">Arquivo</phrase>
+		<phrase id="3962" icon="Icons\Documents.png:2">Editar</phrase>
+		<phrase id="3963" icon="Icons\Functions.png:21">Visualizar</phrase>
+		<phrase id="3964" icon="Icons\Functions.png:15">Ferramentas</phrase>
+		<phrase id="3965" icon="Icons\Functions.png:19">Ajuda</phrase>
+		<phrase id="3966" icon="Icons\Functions.png:75">Finalizar</phrase>
 	</phrases>
 	<tutorials>
 		<tutorial id="60002" name="Start a new file">
